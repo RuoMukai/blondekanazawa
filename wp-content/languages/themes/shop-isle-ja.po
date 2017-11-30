@@ -1,0 +1,1106 @@
+# Translation of Themes - Shop Isle in Japanese
+# This file is distributed under the same license as the Themes - Shop Isle package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-11 05:31:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Shop Isle\n"
+
+#. Description of the plugin/theme
+msgid "ShopIsle is the perfect free theme designed for your WooCommerce shop based on bootstrap. Due to its flexibility ShopIsle can also be used for a one page business site, it has a fullscreen image, parallax effect, it provides a responsive blog section, is eCommerce ready, WPML, Photo Gallery Grid,Contact Form 7,Meta Slider, SiteOrigin Page Builder, JetPack compatible and SEO friendly. It features a simple, minimal and elegant style which will work perfectly for a clothing, electronics and almost any kind of store."
+msgstr "ショップアイル (Shop Isle) は WooCommerce ショップのために設計された Bootstrap ベースの完璧な無料テーマです。柔軟なので、フルスクリーン画像、パララックス効果、レスポンシブブログセクションを利用してシングルページのビジネスサイトとしてもお使いいただけます。オンラインショップ対応、WPML、Photo Gallery Grid、Contact Form 7、Meta Slider、SiteOrigin Page Builder、JetPack といったプラグインにも対応。SEO 最適化されています。シンプルで無駄がなくエレガントなスタイルが特徴で、ファッションや電器製品などあらゆる種類のショップにぴったりです。"
+
+#. #-#-#-#-#  shop-isle.pot (Shop Isle 1.1.32)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:88
+#: inc/functions/extras.php:164 inc/functions/extras.php:171
+#: inc/functions/extras.php:178 inc/functions/setup.php:377
+#: inc/functions/setup.php:384 inc/functions/setup.php:391
+#: inc/sections/shop_isle_slider_section.php:27
+#: inc/sections/shop_isle_slider_section.php:34
+#: inc/sections/shop_isle_slider_section.php:41
+msgid "Shop Isle"
+msgstr "Shop Isle"
+
+#: inc/customizer/features/feature-slider-shortcode.php:23
+msgid "Slider shortcode"
+msgstr "スライダーのショートコード"
+
+#: inc/sections/shop_isle_products_section.php:177
+#: inc/sections/shop_isle_products_section.php:308
+#: inc/sections/shop_isle_products_slider_section.php:145
+#: inc/sections/shop_isle_products_slider_section.php:218
+#: inc/woocommerce/functions.php:703
+msgid "Out of Stock"
+msgstr "在庫切れ"
+
+#: inc/customizer/features/customizer-theme-info.php:46
+msgid "Quick View functionality"
+msgstr "クイックビュー機能"
+
+#: inc/customizer/features/customizer-theme-info.php:43
+msgid "Add New Sections"
+msgstr "新規セクションを追加"
+
+#: inc/frontpage-manager.php:29
+msgid "Keep the old static frontpage template?"
+msgstr "古い静的フロントページテンプレートを維持しますか ?"
+
+#: inc/customizer/features/customizer-theme-info.php:48
+#: inc/customizer/functions.php:39
+msgid "Support"
+msgstr "サポート"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:82
+msgid "Video thumbnail"
+msgstr "動画サムネイル"
+
+#: inc/customizer/features/customizer-theme-info.php:73
+msgid "Three New Color Schemes"
+msgstr "3つの新しい配色"
+
+#: inc/customizer/features/customizer-theme-info.php:42
+msgid "Section Reordering"
+msgstr "セクションの並べ替え"
+
+#: inc/customizer/features/customizer-theme-info.php:40
+msgid "Enhanced Cart"
+msgstr "強化されたカート"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:408
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:436
+msgid "Add icon"
+msgstr "アイコンを追加"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:389
+#: inc/functions/extras.php:208
+msgid "Social icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:381
+msgid "None"
+msgstr "なし"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:376
+msgid "Image type"
+msgstr "画像形式"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:350
+msgid "here"
+msgstr "こちら"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:349
+msgid "Some icons may not be displayed here. You can see the list of icons %1$s"
+msgstr "注: 一部のアイコンが表示されない場合があります。%1$sでアイコンリストを確認します。"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:226
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:304
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:132
+msgid "Add new field"
+msgstr "新規フィールドを追加"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:25
+msgid "Customizer Repeater"
+msgstr "カスタマイザーの繰り返し"
+
+#. translators: 1: Link to static front page customizer control 2: 'Static
+#. Front Page'
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:129
+msgid "Static Front Page"
+msgstr "静的フロントページ"
+
+#. translators: 1: Link to static front page customizer control
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:124
+msgid "To customize the Frontpage sections please create a page. After that, go to %1$s and select \"A static page\". Finally, for \"Front page\" choose the page you previously created."
+msgstr "フロントページセクションをカスタマイズするには、固定ページを作成します。%1$sで「静的ページ」を選択し、作成済みの固定ページを「フロントページ」として選択します。"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:106
+msgid "Shortcodes Section"
+msgstr "ショートコードセクション"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:105
+#: inc/customizer/features/customizer-theme-info.php:45
+msgid "Services Section"
+msgstr "サービスセクション"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:104
+msgid "Ribbon Section"
+msgstr "リボンセクション"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:103
+#: inc/customizer/features/customizer-theme-info.php:44
+msgid "Map Section"
+msgstr "マップセクション"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:102
+#: inc/customizer/features/customizer-theme-info.php:47 inc/init.php:25
+msgid "Categories Section"
+msgstr "カテゴリーセクション"
+
+#: inc/customizer/class/class-shop-isle-pro-palette.php:60
+#: inc/customizer/class/class-shop-isle-pro-palette.php:69
+msgid "Default"
+msgstr "デフォルト"
+
+#. Template Name of the plugin/theme
+msgid "Full width, no title (SiteOrigin Page builder Template)"
+msgstr "全幅、タイトルなし (SiteOrigin Page builder テンプレート)"
+
+#: inc/customizer/features/customizer-theme-info.php:41
+msgid "Get full color schemes support for your site. "
+msgstr "サイトのすべての配色対応を入手"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:109
+#: inc/customizer/features/customizer-theme-info.php:21
+#: inc/customizer/features/customizer-theme-info.php:55
+#: inc/customizer/features/customizer-theme-info.php:77
+msgid "View PRO version"
+msgstr "プロ版を表示"
+
+#. translators: 1: Link to Pirate Forms Plugin.
+#: inc/customizer/features/feature-contact-controls.php:36
+msgid "Create a form, copy the shortcode generated and paste it here. We recommend %1$s but you can use any plugin you like."
+msgstr "フォームを作成し、生成されたショートコードをここに貼り付けます。"
+
+#. translators: 1: Link to WiooCommerce Plugin. 2: 'WooCommerce'
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:28
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:27
+#: inc/functions/extras.php:214
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "全幅"
+
+#: inc/sections/shop_isle_products_slider_section.php:23
+msgid "For this section to work, you first need to install the WooCommerce plugin , create some products, and select a product category in Customize -> Frontpage sections -> Products slider section"
+msgstr "このセクションを利用するには、WooCommerce プラグインをインストールして商品を登録し、「カスタマイズ」>「フロントページセクション」>「商品セクション」で商品カテゴリーを選択します。"
+
+#: inc/sections/shop_isle_products_section.php:338
+msgid "For this section to work, you first need to install the WooCommerce plugin , create some products, and insert a WooCommerce shortocode or select a product category in Customize -> Frontpage sections -> Products section"
+msgstr "このセクションを利用するには、WooCommerce プラグインをインストールして商品を登録し、WooCommerce のショートコードを追加するか、「カスタマイズ」>「フロントページセクション」>「商品セクション」で商品カテゴリーを選択します。"
+
+#: inc/sections/shop_isle_products_section.php:208
+msgid "No products found."
+msgstr "商品が見つかりません。"
+
+#: inc/sections/shop_isle_products_section.php:197
+#: inc/sections/shop_isle_products_section.php:199
+#: inc/sections/shop_isle_products_section.php:328
+#: inc/sections/shop_isle_products_section.php:330
+msgid "See all products"
+msgstr "すべての商品を見る"
+
+#: inc/sections/shop_isle_products_section.php:146
+#: inc/sections/shop_isle_products_section.php:276
+msgid "Quick View"
+msgstr "クイックビュー"
+
+#. translators: s: Search term.
+#: search.php:30
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#. translators: d: number of items.
+#: inc/woocommerce/template-tags.php:28
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "％件のアイテム"
+
+#: inc/structure/template-tags.php:170
+msgid "On Sale"
+msgstr "セール中の商品"
+
+#: inc/functions/extras.php:215 inc/structure/template-tags.php:135
+msgid "Top Rated Products"
+msgstr "評価の高い商品"
+
+#: inc/structure/template-tags.php:100
+msgid "Featured Products"
+msgstr "おすすめの商品"
+
+#: inc/structure/template-tags.php:63
+msgid "Recent Products"
+msgstr "新着商品"
+
+#: inc/structure/template-tags.php:28
+msgid "Product Categories"
+msgstr "商品カテゴリー"
+
+#. translators: s: category name
+#: inc/structure/post.php:165
+msgid "View all posts in %s"
+msgstr "%s の投稿をすべて表示"
+
+#: inc/structure/post.php:151
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/structure/post.php:149
+msgid " Comments"
+msgstr "コメント"
+
+#: inc/structure/post.php:147
+msgid "No Comments"
+msgstr "コメントはまだありません"
+
+#: inc/structure/post.php:127
+msgid "By "
+msgstr "By "
+
+#: inc/structure/post.php:98
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい投稿 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/structure/post.php:95
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 過去の投稿"
+
+#: inc/structure/post.php:92
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#. translators: s: post title
+#: inc/structure/post.php:59
+msgid "Tagged %1$s"
+msgstr "タグ:  %1$s"
+
+#: inc/structure/post.php:55
+msgid ", "
+msgstr "、"
+
+#. translators: s: post title
+#: inc/structure/post.php:40
+msgid "Continue reading %s"
+msgstr "続きを読む %s"
+
+#: inc/structure/page.php:22 inc/structure/post.php:47
+msgid "Pages:"
+msgstr "ページ:"
+
+#: inc/structure/header.php:97
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: inc/structure/header.php:96
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索:"
+
+#: inc/structure/header.php:96
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr "商品を検索&hellip;"
+
+#: inc/structure/header.php:66
+msgid "Toggle navigation"
+msgstr "ナビゲーションを切り替え"
+
+#: inc/structure/footer.php:94
+msgid "powered by"
+msgstr "Powered by "
+
+#: inc/structure/comments.php:76
+msgid "Edit"
+msgstr "編集"
+
+#: inc/structure/comments.php:49
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#. translators: s: Comment author link
+#: inc/structure/comments.php:45
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: inc/init.php:119 inc/structure/header.php:105
+#: inc/woocommerce/template-tags.php:20
+msgid "View your shopping cart"
+msgstr "カートを見る"
+
+#: inc/functions/extras.php:221 inc/functions/extras.php:281
+#: inc/functions/setup.php:564
+msgid "Easy to use"
+msgstr "使い方は簡単です"
+
+#: inc/functions/extras.php:220 inc/functions/extras.php:276
+#: inc/functions/setup.php:559
+msgid "Highly customizable"
+msgstr "高度なカスタマイズが可能"
+
+#: inc/functions/extras.php:271 inc/functions/setup.php:554
+msgid "Designs & interfaces"
+msgstr "デザインとインターフェイス"
+
+#: inc/functions/extras.php:267 inc/functions/extras.php:272
+#: inc/functions/extras.php:277 inc/functions/extras.php:282
+#: inc/functions/setup.php:550 inc/functions/setup.php:555
+#: inc/functions/setup.php:560 inc/functions/setup.php:565
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。"
+
+#: inc/functions/extras.php:209 inc/functions/extras.php:266
+#: inc/functions/setup.php:549
+msgid "Ideas and concepts"
+msgstr "アイデアとコンセプト"
+
+#: inc/functions/setup.php:263
+msgid "Sidebar Shop Page"
+msgstr "ショップページのサイドバー"
+
+#: inc/functions/setup.php:252
+msgid "Footer area 4"
+msgstr "フッターエリア4"
+
+#: inc/functions/setup.php:241
+msgid "Footer area 3"
+msgstr "フッターエリア3"
+
+#: inc/functions/setup.php:230
+msgid "Footer area 2"
+msgstr "フッターエリア2"
+
+#: inc/functions/setup.php:219
+msgid "Footer area 1"
+msgstr "フッターエリア1"
+
+#: inc/functions/setup.php:208
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: inc/flag-wporg.php:34 inc/functions/setup.php:134
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:246
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:319
+msgid "Delete field"
+msgstr "フィールドを削除"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:219
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:298
+msgid "Button Label"
+msgstr "ボタンのラベル"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:232
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:310
+msgid "Description"
+msgstr "キャッチコピー"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:368
+msgid "Upload Image"
+msgstr "画像をアップロード"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:344
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:379
+msgid "Icon"
+msgstr "アイコン"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:90
+#: inc/customizer/functions.php:38
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: inc/customizer/features/feature-advanced-controls.php:34
+msgid "Disable preloader?"
+msgstr "プリロードを無効化します。"
+
+#: inc/customizer/features/feature-advanced-controls.php:18
+msgid "Advanced options"
+msgstr "高度なオプション"
+
+#: inc/customizer/features/feature-404-controls.php:64
+msgid "Text"
+msgstr "テキスト"
+
+#: inc/customizer/features/feature-404-controls.php:28
+msgid "Background image"
+msgstr "背景画像"
+
+#: inc/customizer/features/feature-contact-controls.php:59
+msgid "To use this section please install <a href=\"https://wordpress.org/plugins/intergeo-maps/\">Intergeo Maps</a> plugin then use it to create a map and paste here the shortcode generated"
+msgstr "このセクションを使用するには <a href=\"https://wordpress.org/plugins/intergeo-maps/\">Intergeo Maps</a> プラグインをインストールして地図を作成し、生成されたショートコードをここに貼り付けます。"
+
+#. translators: 1: 'Simple Contact Form Plugin - PirateForms'
+#: inc/customizer/features/feature-contact-controls.php:58
+msgid "Map shortcode"
+msgstr "マップショートコード"
+
+#: inc/customizer/features/feature-contact-controls.php:33
+msgid "Contact form shortcode"
+msgstr "お問い合わせフォームのショートコード"
+
+#. #-#-#-#-#  shop-isle.pot (Shop Isle 1.1.32)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/customizer/features/feature-contact-controls.php:19
+#: inc/customizer/features/feature-contact-controls.php:70
+msgid "Contact page"
+msgstr "お問い合わせページ"
+
+#: inc/customizer/features/feature-footer-controls.php:79
+msgid "Social"
+msgstr "SNS"
+
+#: inc/customizer/features/feature-footer-controls.php:68
+#: inc/customizer/features/feature-footer-controls.php:80
+msgid "Add new social"
+msgstr "新しいソーシャルアイコンを追加"
+
+#: inc/customizer/features/feature-footer-controls.php:51
+msgid "Hide site info?"
+msgstr "サイト情報を非表示にする。"
+
+#: inc/customizer/features/feature-footer-controls.php:33
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/features/feature-footer-controls.php:18
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:148
+msgid "If no category is selected , WooCommerce products from the first category found are displaying."
+msgstr "カテゴリーを選択しない場合、1つ目のカテゴリー内の WooCommerce の商品を表示します。"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:106
+msgid "Section subtitle"
+msgstr "セクションのサブタイトル"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:100
+#: inc/woocommerce/functions.php:367
+msgid "Special category of products"
+msgstr "特定の商品カテゴリー"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:83
+#: inc/sections/shop_isle_products_slider_section.php:21
+#: inc/woocommerce/functions.php:366
+msgid "Exclusive products"
+msgstr "特別な商品"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:72
+msgid "Hide products slider section on single product page?"
+msgstr "商品個別ページで、商品スライダーセクションを非表示にする。"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:54
+msgid "Hide products slider section on frontpage?"
+msgstr "フロントページで、商品スライダーセクションを非表示にする。"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:36
+msgid "Products slider section"
+msgstr "商品スライダーセクション"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:66
+msgid "Youtube link"
+msgstr "YouTube リンク"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:35
+msgid "Hide video section?"
+msgstr "動画セクションを非表示にする。"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:18
+msgid "Video section"
+msgstr "動画セクション"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:123
+msgid "OR pick a product category. If no shortcode or no category is selected , WooCommerce latest products are displaying."
+msgstr "または商品カテゴリーを選択します。ショートコードとカテゴリーのいずれも登録されていない場合、 WooCommerce の新着商品を表示します。"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:122
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:144
+msgid "Products category"
+msgstr "商品カテゴリー"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:93
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:114
+msgid "Select category"
+msgstr "カテゴリーを選択"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:86
+msgid "Insert a WooCommerce shortcode"
+msgstr "WooCommerce ショートコードを追加"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:84
+msgid "WooCommerce shortcode"
+msgstr "WooCommerce ショートコード"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:50
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:69
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:89
+msgid "Section title"
+msgstr "セクションタイトル"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:63
+#: inc/sections/shop_isle_products_section.php:21
+msgid "Latest products"
+msgstr "最新の商品"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:52
+msgid "Hide products section?"
+msgstr "商品セクションを非表示にする。"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:36
+msgid "Products section"
+msgstr "商品セクション"
+
+#. translators: 1: Link to WooCommerce Plugin
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:20
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:18
+msgid "To use this section, you are required to first install the  %1$s plugin"
+msgstr "このセクションを使用するには、先に %1$s プラグインをインストールしてください。"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:93
+msgid "Banner"
+msgstr "バナー"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:82
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:94
+msgid "Add new banner"
+msgstr "新しいバナーを追加"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:35
+msgid "Hide banners section?"
+msgstr "バナーセクションを非表示にします。"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:18
+#: inc/init.php:24
+msgid "Banners section"
+msgstr "バナーセクション"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:212
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:292
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:403
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:421
+#: inc/customizer/features/feature-404-controls.php:81
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:118
+msgid "Button link"
+msgstr "ボタンリンク"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:112
+#: inc/sections/shop_isle_big_title_section.php:28
+msgid "#"
+msgstr "#"
+
+#: inc/customizer/features/feature-404-controls.php:98
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:102
+msgid "Button label"
+msgstr "ボタンラベル"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:206
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:286
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:86
+msgid "Subtitle"
+msgstr "サブタイトル"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:80
+#: inc/functions/extras.php:165 inc/functions/extras.php:172
+#: inc/functions/extras.php:179 inc/functions/setup.php:378
+#: inc/functions/setup.php:385 inc/functions/setup.php:392
+#: inc/sections/shop_isle_big_title_section.php:26
+#: inc/sections/shop_isle_slider_section.php:28
+#: inc/sections/shop_isle_slider_section.php:35
+#: inc/sections/shop_isle_slider_section.php:42
+msgid "WooCommerce Theme"
+msgstr "WooCommerce テーマ"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:194
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:200
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:273
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:279
+#: inc/customizer/features/feature-404-controls.php:46
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:70
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:51
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:365
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:380
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:53
+msgid "Image"
+msgstr "画像"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:36
+msgid "Hide big title section?"
+msgstr "大きなタイトルセクションを非表示にします。"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:18
+msgid "Big title section"
+msgstr "大きなタイトルセクション"
+
+#: inc/customizer/customizer.php:31
+msgid "Frontpage sections"
+msgstr "フロントページセクション"
+
+#: inc/customizer/features/feature-blog-header-controls.php:39
+msgid "Blog header subtitle"
+msgstr "ブログヘッダーのサブタイトル"
+
+#: inc/customizer/features/feature-blog-header-controls.php:24
+msgid "Blog header title"
+msgstr "ブログヘッダーのタイトル"
+
+#: inc/customizer/features/feature-header-controls.php:18
+msgid "Header"
+msgstr "ヘッダー"
+
+#. translators: 1: Link to documentation page. 2: 'doc'
+#: inc/customizer/class/class-shopisle-contact-page-instructions.php:21
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:133
+msgid "Need further informations? Check this %1$s"
+msgstr "更なる情報はこちらの%1$sをご覧ください。"
+
+#: inc/customizer/class/class-shopisle-contact-page-instructions.php:21
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:136
+msgid "doc"
+msgstr "ドキュメンテーション"
+
+#: inc/customizer/class/class-shopisle-contact-page-instructions.php:19
+msgid "To customize the Contact Page you need to first select the template \"Contact page\" for the page you want to use for this purpose. Then open that page in the browser and press \"Customize\" in the top bar."
+msgstr "お問い合わせページをカスタマイズするには、まずあなたがこの目的のために使用したいページのテンプレート「お問い合わせページ」を選択する必要があります。その後、ブラウザでそのページを開いて、上部のバーに「カスタマイズ」を押してください。"
+
+#: home.php:39 inc/customizer/features/feature-blog-header-controls.php:17
+msgid "Blog"
+msgstr "ブログ（お知らせ）"
+
+#: header.php:35
+msgid "Loading..."
+msgstr "読み込み中..."
+
+#: content-none.php:35
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: content-none.php:30
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#. translators: 1: link to new post page
+#: content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:47 comments.php:67
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:46 comments.php:66
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:45 comments.php:65
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; への%1$s件のコメント"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストールしています %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s を正常にインストールしました。"
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストール、有効化しています %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "詳細を非表示"
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s を正常にインストールし、有効化しました。"
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "<strong>%2$s</strong>%1$s のインストール中にエラーが発生しました。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインの更新: %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新できるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "現時点でインストールできるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "アップデートするプラグインが選択されていません。何も実行しませんでした。"
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
+
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "有効化"
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "インストール"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "%2$s を有効化"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "%2$s を更新"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "%2$s をインストール"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "状態"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "バージョン"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "タイプ"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "取得方法"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "インストール・更新・有効化可能なプラグインがありません。"
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "最低要求バージョン:"
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "インストールしたバージョン:"
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "有効化可能 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "更新可能 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "インストール可能 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s、%2$s"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "更新が推奨されています"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "更新が必要です"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "必要な更新が利用できません"
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "有効"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "停止中"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "インストールされていません"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "プリパッケージ"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部ソース"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress 公式ディレクトリ"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "推奨"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "必須"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1つのフォルダー内にパッケージされていません。"
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "プラグイン提供者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
+
+#: class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "リモートプラグインパッケージには、指定されたスラッグのフォルダがないため、名前の変更ができませんでした。"
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "更新が必要です"
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "インストール・更新・有効化可能な必須・推奨プラグインがあります。"
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "無視する"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインを正常にインストールし、有効化しました。 %1$s"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインを有効化できませんでした。このテーマには上位バージョンの %s が必要です。プラグインを更新してください。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効です。"
+
+#: class-tgm-plugin-activation.php:388 class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "以下のプラグインを有効化しました:"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "プラグインを有効化しました。"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインのインストール画面に戻る"
+
+#: class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始"
+
+#: class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Plugin API で問題が発生しました。"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "プラグインの更新: %s"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "インストールしているプラグイン: %s"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "必要なプラグインをインストールする"
+
+#: archive.php:113 home.php:156 index.php:152
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr "新しい投稿 <span class=\"meta-nav\">&raquo;</span>"
+
+#: archive.php:112 home.php:155 index.php:151
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&laquo;</span> 過去の投稿"
+
+#: archive.php:98 home.php:141
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:96
+#: inc/functions/extras.php:166 inc/functions/extras.php:173
+#: inc/functions/extras.php:180 inc/functions/setup.php:379
+#: inc/functions/setup.php:386 inc/functions/setup.php:393 inc/init.php:170
+#: inc/sections/shop_isle_big_title_section.php:27
+#: inc/sections/shop_isle_slider_section.php:29
+#: inc/sections/shop_isle_slider_section.php:36
+#: inc/sections/shop_isle_slider_section.php:43 index.php:137
+msgid "Read more"
+msgstr "もっと読む"
+
+#: 404.php:45 inc/customizer/features/feature-404-controls.php:91
+msgid "Back to home page"
+msgstr "ホームに戻る"
+
+#: inc/customizer/features/feature-404-controls.php:56
+msgid "The requested URL was not found on this server.<br> That is all we know."
+msgstr "リクエストした URL は見つかりません。<br>その他の情報はありません。"
+
+#: 404.php:28 inc/customizer/features/feature-404-controls.php:39
+msgid "Error 404"
+msgstr "404 エラー"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/shop-isle/"
+msgstr "http://themeisle.com/themes/shop-isle/"

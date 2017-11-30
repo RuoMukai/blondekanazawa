@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	
+		<title>Call to upgrade/renew Digiprove plan</title>
+	</head>
+<body style="text-align:center; margin: 0px; background-color:gray; width:100%">
+	<div align="center" style="width: 780px; margin-left: auto; margin-right: auto;background-color: white;">
+		<br>
+		<table cellspacing="0" cellpadding="0" border="0">
+			<tbody>
+				<tr>
+					<td align="center" style="padding-top: 10px;"><span id="Heading2" style="color:#CC0000; font-family: Arial, Helvetica, sans serif; font-size:14px; font-weight:bold">Loading digiprove.com secure session</span></td>
+
+				</tr>
+				<tr><td style="height:10px"></td></tr>
+			</tbody>
+		</table>
+		<form id="Upgrade" name="Upgrade" method="POST">
+			<input type="hidden" id="UserId" name="UserId"/>
+			<input type="hidden" id="ApiKey" name="ApiKey"/>
+			<input type="hidden" id="Domain" name="Domain"/>
+			<input type="hidden" id="UserAgent" name="UserAgent"/>
+			<input type="hidden" id="Action" name="Action"/>
+			<input type="hidden" id="Info" name="Info"/>		
+		</form>
+	</div>
+
+	<script type="text/javascript">
+		document.getElementById("Action").value = getQuerystring("Action");
+		if (document.getElementById("Action").value == "Renew")
+		{
+			document.getElementById("Heading2").innerHTML = "Loading digiprove.com secure renew/upgrade session";
+		}
+		else
+		{
+			if (document.getElementById("Action").value == "Upgrade")
+			{
+				document.getElementById("Heading2").innerHTML = "Loading digiprove.com secure upgrade session";
+			}
+			else
+			{
+				document.getElementById("Heading2").innerHTML = "Loading digiprove.com secure member&#39;s session";
+			}
+		}
+		//document.Upgrade.action = getQuerystring("FormAction");
+		document.getElementById('Upgrade').action = getQuerystring("FormAction");
+		document.getElementById("UserId").value = getQuerystring("UserId");
+		document.getElementById("ApiKey").value = getQuerystring("ApiKey");
+		document.getElementById("Domain").value = getQuerystring("Domain");
+		document.getElementById("UserAgent").value = getQuerystring("UserAgent");
+		if (document.Upgrade.method.toLowerCase() != "post")		// This should never happen but sometimes arrives at server as a GET!
+		{
+			var info = "Changed form method from " + document.Upgrade.method + " to ";
+			document.Upgrade.method = "POST";
+			info += document.Upgrade.method;
+			document.getElementById("Info").value = info;
+		}
+		document.Upgrade.submit();
+		function getQuerystring(key, default_)
+		{
+			if (default_ == null)
+			{
+				default_ = "";
+			}
+			key = key.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+			var regex = new RegExp("[\\?&]"+key+"=([^&#]*)");
+			var qs = regex.exec(window.location.href);
+			if(qs == null)
+			{
+				return default_;
+			}
+			else
+			{
+				return qs[1];
+			}
+		}
+	</script>
+ </body>
+</html>

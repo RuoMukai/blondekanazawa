@@ -1,0 +1,2102 @@
+# Ba.
+# Copyright (C) 2011 Digiprove Ltd.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR cian.kinsella@digiprove.com, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Copyright Proof 1.15\n"
+"Report-Msgid-Bugs-To: support@digiprove.com’\n"
+"POT-Creation-Date: 2014-08-29 17:03+0100\n"
+"PO-Revision-Date: 2014-08-29 17:10-0000\n"
+"Last-Translator: Cian Kinsella <cian.kinsella@digiprove.com>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:188
+msgid "Blog post"
+msgstr "Blog bericht"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:193
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1882
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1887
+msgid "Copyright secured by Digiprove"
+msgstr "Copyright beveiligd door Digiprove"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:414
+msgid "Activation email was not resent:"
+msgstr "Activatie e-mail is niet opniew verstuurd:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:423
+msgid "Sorry, there was a problem in resending the activation email"
+msgstr "Sorry, er is een probleem in de activatie e-mail opnieuw verzenden"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:444
+msgid "Did not refresh subscription data:"
+msgstr "Abonnement informatie niet vernieuwd:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:452
+msgid "Subscription information refreshed OK"
+msgstr "Abonnement informatie ververst OK"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:471
+#, fuzzy
+msgid "Synchronisation did not complete:"
+msgstr "Serversynchronisatie niet voltooid:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:500
+msgid "Content settings cleared"
+msgstr "Content instellingen gewist"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:508
+msgid "Content settings reset to default"
+msgstr "Content instellingen hersteld naar de standaardinstellingen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:528
+msgid "License updated"
+msgstr "Licentie bijgewerkt"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:539
+msgid "License added"
+msgstr "Licentie toegevoegd"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:559
+msgid "License removed"
+msgstr "licentie verwijderd"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:919
+msgid "Digiprove Settings Updated."
+msgstr "Digiprove instellingen aangepast."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:937
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:974
+msgid "Registration did not complete:"
+msgstr "Registratie niet voltooid:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:946
+msgid ""
+"Digiprove user registration was successful, check your email for the "
+"activation link"
+msgstr ""
+"Digiprove gebruiker registratie succesvol was, controleer je email voor de "
+"activatie link"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1002
+msgid "Server data has also been synchronised"
+msgstr "Server-gegevens is ook gesynchroniseerd"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1032
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1044
+msgid "Server synchronisation did not complete:"
+msgstr "Serversynchronisatie niet voltooid:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1095
+msgid "Digiprove Settings not Updated."
+msgstr "Digiprove instellingen zijn niet gewijzigd."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1412
+msgid "Obtain API key automatically (default)"
+msgstr "Krijg API sleutel automatisch (standaard)"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1413
+msgid "I already have an API key for this domain"
+msgstr "Ik heb al een API sleutel voor dit domain"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1417
+msgid "Obtain new API key automatically"
+msgstr "Krijg niewe API sleutel automatisch"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1418
+msgid "Let me input a new API key for this domain"
+msgstr "Ik voer zelf de nieuwe API-sleutel in voor dit domein"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1600
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2213
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:334
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:338
+#: /cygdrive/c/language_folder/CopyrightProof.php:609
+#: /cygdrive/c/language_folder/CopyrightProof.php:610
+msgid "All Rights Reserved"
+msgstr "All Rights Reserved"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1710
+msgid "Copyright Proof Settings"
+msgstr "Copyright Proof Instellingen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1721
+msgid "Basic"
+msgstr "Basic"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1722
+msgid "Advanced"
+msgstr "Advanced"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1723
+msgid "Certifying Content"
+msgstr "Certificering Inhoud"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1724
+msgid "License"
+msgstr "Licentie"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1725
+msgid "Copy Protect"
+msgstr "Kopieerbeveiliging"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1735
+#, fuzzy
+msgid "Personal details and preferences (primary user)"
+msgstr "Persoonlijke gegevens en voorkeuren"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1736
+msgid "How these details are used"
+msgstr "Hoe deze gegevens worden gebruikt"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1740
+msgid "Email address"
+msgstr "Email adres"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1745
+msgid "First name:"
+msgstr "Voornaam:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1750
+msgid "Last name:"
+msgstr "Achternaam:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1755
+#, fuzzy
+msgid "Display user name(s):"
+msgstr "Laten mijn volledige naam zien:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1757
+#, fuzzy
+msgid "Yes, display user name"
+msgstr "Ja, laat mijn volledige naam zien"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1758
+#, fuzzy
+msgid "No, keep user name(s) private"
+msgstr "Nee, houd mijn naam geheim"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1760
+msgid "Note on privacy"
+msgstr "Opmerking over privacy"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1764
+#, fuzzy
+msgid "Email certificates to me:"
+msgstr "Email mijn Digiprove certificaten?:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1766
+msgid "No, don't bother me with emails"
+msgstr "Nee, stuur mij geen bevestiging via email"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1767
+#, fuzzy
+msgid "Yes, send me all Digiprove certs by email"
+msgstr "Ja, stuur mij wel een bevestiging via e-mail"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1769
+msgid "Note on certificates"
+msgstr "Opmerking over certificaten"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1780
+msgid "Digiprove registration details"
+msgstr "Digiprove registratie details"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1781
+msgid "Let me change Registration Info"
+msgstr "Mijn Registratie Info veranderen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1782
+msgid "Re-send activation email"
+msgstr "Opnieuw versturen activerings e-mail"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1786
+msgid "Registered Digiprove user?:"
+msgstr "Geregistreerde Digiprove gebruiker?:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1788
+msgid "I am already registered with Digiprove"
+msgstr "Ik ben al geregistreerd bij Digiprove"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1789
+msgid "I have not yet registered with Digiprove"
+msgstr "Ik ben nog niet geregistreerd bij Digiprove"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1792
+msgid "What&#39;s this about?"
+msgstr "Waar gaat dit over?"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1796
+msgid "Do you want to register now?:"
+msgstr "Wil je nu registreren?:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1797
+msgid "Yes, register me now"
+msgstr "Ja, nu registreren me"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1798
+msgid "No, do it later"
+msgstr "Nee, doe het later"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1799
+msgid "Terms of use."
+msgstr "Voorwaarden voor gebruik."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1804
+msgid "Subscription Type:"
+msgstr "Soort Abonnement:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1808
+#, php-format
+msgid "valid until %s"
+msgstr "geldig tot %s"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1811
+msgid "Login"
+msgstr "Login"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1811
+msgid "Upgrade"
+msgstr "Opwaarderen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1814
+msgid "Renew"
+msgstr "Verlengen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1821
+msgid "Digiprove User Id:"
+msgstr "Digiprove Gebruikers-id:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1821
+msgid "Desired Digiprove User Id:"
+msgstr "Gewenste Digiprove Gebruikers-id:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1827
+msgid "Select a password:"
+msgstr "Kies een wachtwoord:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1829
+msgid "Security note"
+msgstr "Beveiliging opmerking"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1835
+msgid "type the password again."
+msgstr "typ het wachtwoord nogmaals."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1838
+#, php-format
+msgid "Digiprove API key for %s"
+msgstr " Digiprove API sleutel voor %s "
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1838
+msgid " Digiprove API Key:"
+msgstr " Digiprove API-sleutel: "
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1840
+msgid "What&#39;s this?"
+msgstr "Wat is dit?"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1844
+#, php-format
+msgid ""
+"Select this option only if you already have obtained a Digiprove API key for "
+"%s"
+msgstr ""
+"Selecteer deze optie alleen als U al een Digiprove API-sleutel verkregen "
+"voor %s"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1845
+msgid "More about API keys"
+msgstr "Meer over API-sleutels"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1856
+msgid "I would like to learn about special offers and news from Digiprove"
+msgstr "Ik wil leren over speciale aanbiedingen en nieuws van Digiprove"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1867
+msgid "The Digiprove notice"
+msgstr "De Digiprove Standaard Vermelding"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1867
+msgid "(at foot of each post)"
+msgstr "(aan het eind van elk bericht)"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1871
+msgid "Preview:"
+msgstr "Preview:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1876
+msgid "Digiprove Notice Text:"
+msgstr "Standaard vermelding tekst:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1878
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1883
+#: /cygdrive/c/language_folder/copyright_proof_live.php:509
+msgid "This content has been Digiproved"
+msgstr "Deze inhoud is Digiproved"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1879
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1884
+msgid "This article has been Digiproved"
+msgstr "Dit artikel is Digiproved"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1880
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1885
+msgid "This blog post has been Digiproved"
+msgstr "Deze blogpost is Digiproved"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1881
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1886
+msgid "Copyright protected by Digiprove"
+msgstr "Auteursrechtelijk beschermd door Digiprove"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1888
+#, php-format
+msgid "This %s has been Digiproved"
+msgstr "Deze %s is Digiproved"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1897
+msgid "Or create your own text:"
+msgstr "Of maak Uw eigen tekst:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1908
+msgid "Include a copyright notice:"
+msgstr "Voeg een copyrightvermelding toe:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1910
+msgid "Display"
+msgstr "Tonen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1911
+#, fuzzy
+msgid "Display but omit user name"
+msgstr "Laten mijn volledige naam zien:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1912
+msgid "Do not display"
+msgstr "Niet Tonen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1917
+msgid "How big should it be:"
+msgstr "Welke tekstgrootte?"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1919
+msgid "Medium"
+msgstr "Standaard"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1920
+msgid "Small"
+msgstr "Klein"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1921
+msgid "Smaller"
+msgstr "Kleiner"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1926
+msgid "Select colors:"
+msgstr "Welke kleur?:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1930
+msgid "Text"
+msgstr "Tekst"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1931
+msgid "Mouse-over"
+msgstr "Mouse-over"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1932
+msgid "Background"
+msgstr "Achtergrond"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1933
+msgid "Border"
+msgstr "Border"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1943
+msgid "Transparent"
+msgstr "Transparant"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1944
+msgid "No Border"
+msgstr "Geen Border"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1951
+msgid "Show notice on multi-post web-pages:&nbsp;&nbsp;"
+msgstr "Toon vermelding op multi-bericht web-pagina&#39;s:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1953
+msgid "Note - for search pages, archive pages etc."
+msgstr "Note - voor de zoekpagina&#39;s, archief pagina etc."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1958
+msgid "Show generic Digiprove notice in footer:&nbsp;&nbsp;"
+msgstr "Toon standaard Digiprove vermelding in voettekst:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1960
+msgid "Note - appearance depends on theme"
+msgstr "Opmerking - uiterlijk is afhankelijk van thema"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1964
+msgid "Other users&#39; submissions:"
+msgstr "inzendingen van andere gebruikers"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1966
+msgid "Tag submitter as author"
+msgstr "identificeren indiener als auteur"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1967
+msgid "Assign copyright to submitter"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1979
+msgid "The certificate (on Digiprove web-page)"
+msgstr "Het certificaat (op de digiprove.com web-pagina)"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1983
+msgid "How your content should be described:"
+msgstr "Hoe wilt U dat de inhoud wordt omschreven:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1984
+msgid ""
+"e.g. &quot;Blog post&quot;, &quot;News article&quot;, &quot;Opinion&quot;"
+msgstr "bv \"Blog Post\", \"Nieuws artikel\", \"advies\""
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1988
+msgid "Obscure Digiprove certificate link:"
+msgstr "Coderen Digiprove certificaat hyperlink:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1990
+msgid "Obscure the link (for privacy)"
+msgstr "Codeer de hyperlink (voor privacy)"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1991
+msgid "Do not obscure the link (for search engine optimisation)"
+msgstr "De hyperlink niet coderen (voor SEO)"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1996
+msgid "Certificate page to link back to post?:"
+msgstr "Digiprove certificaat pagina terugkoppelen naar Wordpress bericht?:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1998
+msgid "Do not link back to my web pages"
+msgstr "Geen link leggen naar mijn web pagina&#39;s"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:1999
+msgid "Digiprove certificate web-page should have a link to my web page here"
+msgstr "Digiprove certificaat webpagina moet een link leggen naar mijn website"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2004
+msgid "Save content at www.digiprove.com:"
+msgstr "Wilt U de Digiproved inhoud opslaan op www.digiprove.com?:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2006
+msgid "Do not save content"
+msgstr "Inhoud niet opslaan"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2007
+msgid "Save a copy of Digiproved content at www.digiprove.com"
+msgstr "Inhoud wel opslaan"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2019
+msgid "Select Post Types  to be Digiproved:"
+msgstr "Selecteer Bericht Types te Digiproven"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2033
+msgid "Explanation"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2041
+msgid "Individually fingerprint files used in your content:"
+msgstr "individuele vingerafdruk bestanden die worden gebruikt in Uw inhoud"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2041
+msgid "What&#039;s this for?"
+msgstr "Waar is dit voor?"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2041
+msgid "Note - Beta functionality"
+msgstr "Let op: BETA-functionaliteit"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2044
+msgid "Files referenced in HTML tags:"
+msgstr "Bestanden waarnaar verwezen wordt in HTML-tags:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2045
+msgid "Media types"
+msgstr "mediatypen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2111
+msgid "File extensions:"
+msgstr "Bestandsextensies:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2140
+msgid "Media files hosted at other websites?:"
+msgstr "Media-bestanden die gehost wordt op andere websites?:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2142
+msgid "Only Digiprove media hosted on this site"
+msgstr "Alleen Digiprove media gehost op deze site"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2143
+msgid "Digiprove media wherever it is hosted"
+msgstr "Digiprove media, ongeacht waar deze wordt gehost"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2150
+msgid "Featured Images:"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2154
+msgid "Clear all"
+msgstr "Verwijder Alles"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2154
+msgid "Reset to default values"
+msgstr "Reset naar standaard instellingen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2164
+#, fuzzy
+msgid "Data Integrity verification on your content"
+msgstr "Het uitvoeren van Data Integriteit controle op Uw inhoud"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2165
+msgid "Note"
+msgstr "Opmerking"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2169
+#, fuzzy
+msgid "Perform Content Integrity Verification:"
+msgstr "Het uitvoeren van Data Integriteit controle op Uw inhoud"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2171
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:248
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:293
+msgid "Yes"
+msgstr "Ja"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2172
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:248
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:293
+msgid "No"
+msgstr "Nee"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2176
+msgid "Content to be verified:"
+msgstr "Inhoud te worden gecontroleerd"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2178
+msgid "Just HTML"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2179
+#, fuzzy
+msgid "HTML &amp; embedded files"
+msgstr "HTML &amp; %s bestanden gecontroleerd"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2181
+msgid "Important note"
+msgstr "Belangrijke opmerking"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2191
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2398
+msgid "Default License Statement"
+msgstr "Standaard Licentie Verklaring"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2195
+msgid "Select License Type:"
+msgstr "Selecteer het Type Licentie:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2197
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:37
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:307
+msgid "None"
+msgstr "Geen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2202
+msgid "Add"
+msgstr "Toevoegen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2203
+msgid "Amend"
+msgstr "te Wijzigen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2204
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2209
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:324
+msgid "License Caption"
+msgstr "Licentie bijschrift"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2214
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:135
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:328
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:332
+#: /cygdrive/c/language_folder/CopyrightProof.php:611
+#: /cygdrive/c/language_folder/CopyrightProof.php:612
+#: /cygdrive/c/language_folder/CopyrightProof.php:613
+#: /cygdrive/c/language_folder/CopyrightProof.php:614
+#: /cygdrive/c/language_folder/CopyrightProof.php:615
+#: /cygdrive/c/language_folder/CopyrightProof.php:616
+#: /cygdrive/c/language_folder/CopyrightProof.php:617
+msgid "Some Rights Reserved"
+msgstr "Some Rights Reserved"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2220
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:345
+msgid "License Abstract"
+msgstr "Licentie Samenvatting"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2228
+msgid "Link to full license text"
+msgstr "Link naar volledige licentie tekst"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2236
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2394
+msgid "Add this license"
+msgstr "Voeg deze licentie"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2238
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2252
+msgid "Important Note"
+msgstr "Let Op"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2256
+msgid "Frustrate copying attempts:&nbsp;&nbsp;"
+msgstr "Verhinder kopieer pogingen:&nbsp;&nbsp;"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2258
+#, fuzzy
+msgid ""
+"Prevent right-click,&nbsp;select,&nbsp;drag,&nbsp;&amp;&nbsp;Control key "
+"combinations"
+msgstr ""
+"Ja,verhinder het gebruik van &quot;rechts aan-klikken&quot;, Select & CTRL-"
+"toetscombinaties"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2259
+#, fuzzy
+msgid ""
+"Allow right-click,&nbsp;select,&nbsp;drag,&nbsp;&amp;&nbsp;Control key "
+"combinations"
+msgstr ""
+"Nee, sta het gebruik van &quot;rechts aanklikken&quot;, Select &amp; CTRL-"
+"toetscombinaties toe"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2263
+msgid "Display warning note on right-click? :&nbsp;&nbsp;"
+msgstr ""
+"Bij illegale kopierpoging waarschuwing over &quot;copyright&quot; weergeven:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2272
+msgid "Monitor &amp; Log attempts at content theft:&nbsp;&nbsp;"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2292
+msgid "Result of last Digiprove action:&nbsp;&nbsp;"
+msgstr "Resultaat van laatste Digiprove actie:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2307
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2333
+msgid "Update Settings"
+msgstr "Instellingen Bijwerken"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2313
+msgid "Close this window"
+msgstr "Sluiten"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2334
+msgid "Update & Register"
+msgstr "Bijwerken & Registreren"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2335
+msgid ""
+"Once you have registered successfully and the plugin is working it should "
+"not be necessary to modify any of these values, and entering an incorrect "
+"value may cause the plugin to stop working.  If you are sure you wish to "
+"proceed, press OK."
+msgstr ""
+"Als U successvol bent geregistreerd, en de plugin werkt, is het niet nodig "
+"om deze gegevens/waarden to wijzigen.  Het invoeren van onjuiste gegevens/"
+"waarden kan ertoe leiden dat de plugin niet meer werkt!  Als U zeker weet "
+"dat U verder wilt gaan drukt U op OK."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2336
+msgid ""
+"Sorry, User Id cannot contain any special characters (\", ?, :, *, |, <, "
+">, /, \\\\)"
+msgstr ""
+"Sorry, kan Gebruikers-id bevat geen speciale tekens (\", ?, :, *, |, <, "
+">, /, \\\\)"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2337
+msgid ""
+"You are changing your Digiprove User Id. This may cause the plugin to stop "
+"working.  Press OK if you are sure, or Cancel to restore the previous value."
+msgstr ""
+"Je bent het veranderen van Uw Digiprove gebruikers-ID. Dit kan ertoe leiden "
+"dat de plugin niet meer werkt. Druk op OK als U zeker weet, of op Annuleren "
+"om de vorige waarde te herstellen."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2338
+msgid ""
+"You have entered a value for API Key - do this only if the new API key was "
+"obtained from Digiprove"
+msgstr ""
+"U heeft een waarde voor API Key - doe dit alleen als de nieuwe API-sleutel "
+"is verkregen van Digiprove"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2340
+msgid "An empty api key is invalid."
+msgstr "Een lege API-sleutel is ongeldig."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2341
+msgid ""
+"You are changing the API Key - do this only if the new API key was obtained "
+"from Digiprove, otherwise the plugin will stop working."
+msgstr ""
+"Je bent het veranderen van de API Key - dit alleen te doen als de nieuwe API-"
+"sleutel is verkregen van Digiprove, anders loopd de plugin niet meer."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2342
+msgid ""
+" That does not look like a valid API key which is normally 22 characters."
+msgstr "Dat lijkt niet op een geldige API-sleutel die normaal is 22 tekens."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2343
+msgid " Press OK to proceed with change or Cancel to restore original value"
+msgstr ""
+"Druk op OK om door te gaan met verandering of op Annuleren om "
+"oorspronkelijke waarde te herstellen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2344
+msgid ""
+"You should only input a value for API Key if you have already obtained this "
+"API key from Digiprove."
+msgstr ""
+"Je moet alleen een waarde voor de API Key als U al deze API sleutel uit "
+"Digiprove gekregen heb."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2345
+msgid ""
+"Do this only if the new API key was obtained from Digiprove, otherwise the "
+"plugin will stop working."
+msgstr ""
+"Doe dit alleen als de nieuwe API-sleutel is verkregen van Digiprove, anders "
+"wordt de plugin zal niet meer werken."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2347
+msgid "Current API Key:"
+msgstr "De huidige API sleutel"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2348
+msgid "Enter Password:"
+msgstr "Voer het wachtwoord:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2349
+msgid "Select a Password:"
+msgstr "Kies een wachtwoord:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2350
+msgid "Enter API Key:"
+msgstr "Vul API-sleutel:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2352
+msgid ""
+"Copyright Proof uses the Digiprove service (<a href=\"http://www.digiprove."
+"com/creative-and-copyright.aspx\" target=\"_blank\">www.digiprove.com</a>) "
+"to certify the content and timestamp of your Wordpress posts. Digiprove "
+"needs the name of the person claiming copyright and a valid email address. "
+"The personal details on this panel will be used only in automatically "
+"creating your account at Digiprove.  The server records of this information "
+"are accessible at <a href=\"https://www.digiprove.com/members/preferences."
+"aspx\" target=\"_blank\">https://www.digiprove.com/members/preferences.aspx</"
+"a>."
+msgstr ""
+"Copyright Proof maakt gebruik van de Digiprove service (<a href=\"http://www."
+"digiprove.com/creative-and-copyright.aspx\" target=\"_blank\">www.digiprove."
+"com</a>) om de inhoud en tijdregistratie (tijdstempel) van Uw Wordpress "
+"berichten te certificeren. Digiprove vereist de naam en een geldig e-mail "
+"adres van de persoon die het auteursrecht claimt, voordat de digitaal "
+"getekende certificaten worden verstuurd. De persoonlijke gegevens op deze "
+"pagina (Basic) zal alleen worden gebruikt voor het automatisch aanmaken van "
+"een persoonlijke account bij Digiprove. De geregistreerde gegevens zijn "
+"beschikbaar bij de server op <a href=\"https://www.digiprove.com/members/"
+"preferences.aspx\" target=\"_blank\">https://www.digiprove.com/members/"
+"preferences.aspx</a>."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2354
+msgid ""
+"The Copyright Proof notice appearing at the foot of your blog posts contains "
+"a link to a web-page showing details of the Digiprove certificate of your "
+"content. If you do not want your name to appear on this page select the &#39;"
+"Keep private&#39; option. Your email address and Digiprove User id are never "
+"revealed. Click <a href=\"http://www.digiprove.com/privacypolicy.aspx\" "
+"target=\"_blank\">here</a> to read the full privacy statement."
+msgstr ""
+"De Copyright Proof notitie die aan het einde van ieder blog bericht "
+"verschijnt, bevat een link naar een web-pagina met details van het Digiprove "
+"certificaat wat betreft de inhoud. Als u niet wilt dat Uw naam wordt "
+"weergegeven op deze pagina selecteer U de &quot;Houd prive&quot; optie. Uw e-"
+"mailadres en Digiprove gebruikers-ID worden nooit onthuld. Klik <a href="
+"\"http://www.digiprove.com/privacypolicy.aspx\" target=\"_blank\">hier</a> "
+"om het volledige privacy verklaring (in het Engels) te lezen."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2356
+msgid ""
+"Every post you publish or update will cause a cryptographically encoded "
+"certificate to be created which is your proof that your content was "
+"published by you at that exact time and date. This is retained for you in "
+"case it is required in future. Each certificate may be downloaded at the "
+"Digiprove website if required - you will need a current subscription to do "
+"this. Digiprove subscribers have the option to receive their certificates "
+"automatically by email. To set this option, select &#39;Yes&#39; here.  You "
+"will still be able to download these certificates from the Digiprove site if "
+"required."
+msgstr ""
+"Elke post die U publiceert of bijwerkt (update) zal automatisch tot een "
+"cryptografisch gecodeerd certificaat leiden.  Dit is Uw bewijs dat Uw inhoud "
+"werd gepubliceerd op dat exacte tijdstip en datum. Dit certificaat wordt "
+"voor U bewaard voor het geval U het nodig heeft voor toekomstig gebruik. Als "
+"U wenst kunt U ieder certificaat downloaden bij de Digiprove website, "
+"hiervoor is wel een geldig abonnement vereist. Digiprove abonnees hebben ook "
+"de optie om hun certificaten automatisch te ontvangen via e-mail.  Als U "
+"gebruik wilt maken van deze optie, selecteer hier &quot;Ja&quot;. Als U "
+"certificaten nodig hebt zijn deze gewoon down te loaden via de Digiprove "
+"website."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2358
+#, php-format
+msgid ""
+"A Digiprove API key for %s is required for this domain to use the Digiprove "
+"service."
+msgstr ""
+"Een Digiprove API-sleutel voor %s is vereist voor dit domein aan de "
+"Digiprove dienst te gebruiken."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2360
+#, php-format
+msgid ""
+" If you have already registered, you do not need to do anything, it will be "
+"filled in automatically when required. You can also obtain an API key %s "
+"from the Digiprove members&#39; website %s (you will be asked to log in)"
+msgstr ""
+" Als U al geregistreerd bent, hoeft U niet om iets te doen, zal het "
+"automatisch ingevuld wanneer dat nodig is. Een API-sleutel  is ook te "
+"verkrijgen van de %sDigiprove leden website%s (U wordt gevraagd om in te "
+"loggen)"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2362
+#, php-format
+msgid ""
+" If you are already registered with Digiprove, you can obtain your API key "
+"for this domain by ticking the &quot;Obtain New API Key&quot; box above (you "
+"will be asked for your password).  API keys can also be obtained at the %s "
+"Digiprove members&#39; website %s (you will be asked to log in)"
+msgstr ""
+" Als U al geregistreerd bij Digiprove, kunt U Uw API-sleutel te verkrijgen "
+"voor dit domein door het aanvinken van het &quot;Verkrijg nieuwe API-"
+"sleutel&quot; box hierboven (U wordt gevraagd om Uw wachtwoord). API-"
+"sleutels kunnen ook worden verkregen bij de %s Digiprove leden website%s (U "
+"wordt gevraagd om in te loggen)"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2364
+#, php-format
+msgid ""
+" If you registered from this page the API key will have been filled in "
+"automatically - there is no need to change it. If you are receiving error "
+"messages regarding your api key you can obtain a new one by ticking &quot;"
+"Obtain New Api Key&quot; box (you will need to input your password) or it "
+"can also be done from the  %sDigiprove  members&#39; website%s (you will be "
+"asked to log in)"
+msgstr ""
+"Als U geregistreerd bent op deze pagina zal dit veld automatisch zijn "
+"ingevuld, en is het niet nodig om het te veranderen.  Als U fout berichten "
+"ontvangt met betrekking tot Uw API-key, kunt U een nieuwe krijgen door het "
+"aanvinken van &quot;Verkrijg nieuwe API-sleutel\" box (U moet wachtwoord "
+"invoeren).  Het kan ook verkregen worden via de %sDigiprove leden website%s "
+"(U wordt gevraagd om in te loggen)"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2366
+#, php-format
+msgid ""
+"Digiprove requires a user id and a domain name/API key pair to authenticate "
+"transactions.  Copyright Proof&#39;s activation and registration process is "
+"designed to set up the required domain name/API key pair automatically when "
+"you install for the first time in Wordpress. When setting up the api key, by "
+"default it will use the domain name of the Site address URL as set in "
+"Wordpress / Settings / General (in your case &#39;%s&#39;); if this is blank "
+"the domain will be taken from the Wordpress address URL (&#39;%s&#39;).<br/"
+"><br/>There are certain situations where you might need to do something:<br/"
+"><br/><table class=\"dprv\" cellpadding=\"3\"><tr><td style=\"vertical-align:"
+"top\"><em>Error message &#39;Invalid domain or api key&#39;</em></"
+"td><td>Either Digiprove has no record of the domain (%s or %s) being "
+"supplied or the api key does not match.  This can happen if your domain name "
+"has changed recently or if the api key was changed in error. It is usually "
+"resolved by ticking the box above entitled &#39;Obtain new api key "
+"automatically&#39;, and pressing &#39;Update Settings&#39;.<br/><br/></td></"
+"tr><tr><td style=\"vertical-align:top\"><em>Error message &#39;Max number of "
+"API keys reached for this subscription type&#39;</em></td><td>The number of "
+"permitted domains depends on the subscription level of your Digiprove "
+"account; the default free Basic account allows you to protect one website, a "
+"Personal account permits 5, and so on. You can either<ul style=\"padding-"
+"left:20px;list-style:disc\"><li>remove an existing domain/API key pair (from "
+"the <a href=\"https://www.digiprove.com/members/members_area.aspx?"
+"content=api_keys.aspx\" target=\"_blank\">Digiprove Member&#39;s area</a> "
+"(you will be asked for your user id and password) or</li><li>upgrade to a "
+"plan that allows the desired number of websites (the 1st month is free) - <a "
+"href=\"%s\" target=\"_blank\" style=\"font-weight:bold\">Upgrade</a></li></"
+"ul>Once you have taken one of these steps, tick the box above entitled &#39;"
+"Obtain new api key automatically&#39;, then press &#39;Update Settings&#39;."
+"</td></tr></table>"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2368
+msgid ""
+"Your password to give you access to the Digiprove website members&#39; area. "
+"An encrypted version of the password is stored on the Digiprove server but "
+"<em>not here on your Wordpress server</em>."
+msgstr ""
+"Uw wachtwoord geven U toegang tot de website Digiprove leden gebied. Een "
+"versleutelde versie van het wachtwoord is opgeslagen op de Digiprove server, "
+"maar <em>hier niet op Uw Wordpress-server</ em>."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2370
+#, php-format
+msgid ""
+"Copyright Proof uses the Digiprove service ( %s www.digiprove.com %s ) to "
+"certify the content and timestamp of your Wordpress posts. You need to "
+"register with Digiprove before Copyright Proof will start working for you; "
+"by selecting &quot;Yes, register me now&quot; this registration process will "
+"take place; you will then receive an email with an activation link."
+msgstr ""
+"Copyright Proof maakt gebruik van de Digiprove dienst (%swww.digiprove.com"
+"%s) om de inhoud en tijdstip van Uw Wordpress berichten te certificeren. "
+"Voordat Copyright Proof actief wordt zult U zich eerst moeten registreren "
+"als Digiprove gebruiker.  Als U selecteert &quot;Ja, nu registreren&quot; "
+"zal het registratie proces plaatsvinden, als deze registratie voltooid is, "
+"ontvangt U een activeringslink via e-mail."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2372
+#, php-format
+msgid ""
+"Using this plugin, the core Digiprove services are provided free-of-charge.  "
+"There are %sterms of use%s governing things like privacy and abuse. There "
+"are some premium services that are available only to Digiprove subscribers"
+msgstr ""
+"Met behulp van deze plugin, vormen de kern Digiprove diensten die vrij-of-"
+"charge. Er zijn %svoorwaarden voor het gebruik%s zaken als privacy en "
+"misbruik. Er zijn een aantal premium diensten die alleen beschikbaar zijn "
+"voor abonnees Digiprove"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2374
+msgid ""
+"Tick this to allow the Digiprove notice to be included in post excerpts that "
+"appear on multi-post pages such as search results, archive pages etc."
+msgstr ""
+"Vink dit aan om zodat Digiprove dit ter kennisgeving kan aannemen in de post "
+"fragmenten (uitreksels) zoals die worden weergegeven op multi-post "
+"pagina&#39;s, zoekresultaten, archief pagina&#39;s etc."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2376
+msgid ""
+"The message &quot;All original content on these pages is fingerprinted and "
+"certified by Digiprove&quot; will appear in the footer of all your web-"
+"pages. Please check how this looks on your site.  Whether and where the "
+"notice appears is determined by your theme.  To change this, look for "
+"wp_footer() in the footer.php file of your theme."
+msgstr ""
+"Het tekst &quot;Alle originele inhoud op deze pagina&#39;s wordt gedigitale "
+"vingerafgedrukt en gecertificeerd door Digiprove&quot; zal verschijnen in de "
+"footer van al uw web-pagina&#39;s. Gelieve hoe dit eruit ziet op uw site. Of "
+"en waar het bericht wordt weergegeven wordt bepaald door uw thema. Om dit te "
+"veranderen, op zoek naar wp_footer () in de footer.php bestand van Uw thema."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2378
+msgid "Your version of PHP does not support this function."
+msgstr "Uw versie van PHP niet ondersteunt deze functie."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2379
+msgid "Ask your provider to upgrade you to PHP 5.1.2 or later."
+msgstr "Vraag Uw provider om je te upgraden naar PHP 5.1.2 of hoger."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2381
+#, fuzzy
+msgid ""
+"This plugin can check the data integrity of your pages and posts - thus "
+"identifying any unauthorised alteration of the content of your posts and "
+"pages, whether through deliberate hacking or through accidental corruption"
+msgstr ""
+"Deze plugin kunt de integriteit van de gegevens van Uw berichten - en dus "
+"het identificeren van ongeoorloofde wijziging van de inhoud van Uw berichten "
+"en pagina&#39;s, hetzij door middel van opzettelijke hacken of door "
+"toevallige corruptie"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2383
+msgid ""
+"Only files that are individually fingerprinted and Digiproved can be checked "
+"for integrity - this will depend on the settings you chose for Digiproving "
+"files above."
+msgstr ""
+"Alleen bestanden die individueel zijn vingerafdrukken en Digiproved kan "
+"worden gecontroleerd op integriteit - dit is afhankelijk van de instellingen "
+"die u heeft gekozen voor Digiproving bestanden hierboven."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2385
+msgid ""
+"For posts and pages entered via Wordpress Edit Post/Page functions, you will "
+"be able to choose whether to Digiprove each time you save.  Here you specify "
+"the default action which will apply for posts submitted in other ways e.g. "
+"via xmlrpc, QuickPress or generated (perhaps by plugins)"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2387
+msgid ""
+"If you include media files (such as images, sounds, video, pdf etc.) within "
+"your posts or pages, you may instruct Digiprove to certify the digital "
+"fingerprints of the individual files, as well the html and text of the post "
+"itself.  Note this will only operate on files that are contained within your "
+"own web-site not hyperlinks to other sites."
+msgstr ""
+"Als je er mediabestanden (zoals afbeeldingen, geluid, video, pdf enz.) in Uw "
+"berichten of pagina&#39;s, kunt u de opdracht Digiprove de digitale "
+"vingerafdrukken van de individuele bestanden te certificeren, bovenop de "
+"html en tekst van het bericht zelf. Let op: dit werkt alleen op bestanden "
+"die zijn opgenomen in Uw eigen web-site geen hyperlinks naar andere sites."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2389
+msgid ""
+"Note the media file Digiproving and Data Integrity functions are in Beta "
+"form. We have tested them in a number of environments, but we are anxious "
+"for your feedback.  If you experience problems, firstly please advise us at "
+"support@digiprove.com, so we can fix the underlying problem. To get rid of "
+"problems, simply untick all of these boxes, or press &quot;Clear all&quot;."
+msgstr ""
+"Let op: Digiprove mediabestand en data integriteit functies zijn in Beta "
+"vorm. We hebben deze Beta functionaliteit getest in verschillende "
+"omstandigheden.  Wij zouden het zeer op prijs stellen als U ons voorziet met "
+"feedback in het geval als U problemen ondevindt.  Heeft U problemen dan kunt "
+"U contact opnemen met support@digiprove.com, zodat wij het onderliggende "
+"probleem kunnen vaststellen en oplossen. Om problemen te wissen en verder "
+"werken, kunt U alles weg vinken, of op &quot;Verwijder Alles&quot; drukken."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2391
+msgid "New License Type"
+msgstr "Nieuwe Soort Licentie"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2392
+msgid "License Type Name"
+msgstr "Soort Licentie Naam"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2393
+msgid "Amend License Type"
+msgstr "Te wijzegen soort Licentie"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2395
+msgid "Update this license"
+msgstr "Update deze licentie"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2396
+#, php-format
+msgid "Remove License Type %s?  (This operation cannot be undone)"
+msgstr ""
+"Verwijder Licentietype %s? (Deze handeling kan niet ongedaan gemaakt worden)"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2397
+msgid ""
+"You have not entered a value for License Summary.  Press OK if this is "
+"intentional"
+msgstr ""
+"U heeft niet ingevoerd een waarde voor de licentie Samenvatting. Druk op OK "
+"als dit opzet"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2399
+msgid "License Type:"
+msgstr "Soort Licentie:"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2400
+msgid "Please enter a value for License Type"
+msgstr "Geef een waarde voor Soort Licentie"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2402
+msgid "Sorry, right-clicking is disabled; please respect copyrights"
+msgstr ""
+"Sorry, dit bestand is beschermd d.m.v. &#39;copyright&#39;; kopieren is "
+"hierdoor niet toegestaan"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2403
+msgid ""
+"Selecting this option will prevent a user from right-clicking on your web-"
+"page (in order to view the source), selecting content (in order to copy to "
+"clipboard), or pressing CTRL/U (to view the source) in most browsers.  This "
+"may prevent the unauthorised use of your content by unsophisticated users, "
+"but will be a small nuisance to a determined content thief. This is as good "
+"as it gets on the web - DO NOT BELIEVE the claims of some other plugin "
+"authors that your content cannot be stolen..."
+msgstr ""
+"Door het selecteren van deze optie wordt voorkomen, bij de meeste browsers, "
+"dat een andere gebruiker, door middel van rechts aanklikken op Uw webpagina "
+"Uw bron (source) kan bekijken, het selecteren van de inhoud om bestandente "
+"kopieeren naar het klembord (clipboard), of door op &quot;CTRL/U&quot; te "
+"drkken, om de bron (source) te bekijken.  Dit kan voorkomen dat er "
+"onrechtmatig gebruik wordt gemaakt door onervaren gebruikers, maar zal, voor "
+"de vastberaden expert een klein ongemak zijn, dit is de beste bescherming "
+"die het web te bieden heeft.  Hecht geen waarde aan claims van andere plugin "
+"auteurs, dat Uw inhoud 100% beschermd is, want dit is zeker niet het geval."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2405
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1301
+msgid "Digiprove certificate id"
+msgstr "Digiprove certificaat id"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2407
+msgid ""
+"Do you want to proceed with registration at www.digiprove.com?  You will "
+"receive an email with an activation link. If you do not want to do this now, "
+"press Cancel"
+msgstr ""
+"Wil je verder wilt gaan met de inschrijving bij www.digiprove.com? U "
+"ontvangt een e-mail met een activatie link. Als U niet wilt dit nu doen, "
+"drukt U op Annuleren"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2408
+msgid "Processing..."
+msgstr "Verwerking ..."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2410
+#, php-format
+msgid ""
+"The %s function is available only to Digiprove subscribers.  %sSelect a "
+"subscription plan%s."
+msgstr ""
+"De %s functie is alleen beschikbaar voor abonnees Digiprove. %sKies een "
+"abonnement%s."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2412
+#, php-format
+msgid ""
+"The %s function is available only to Digiprove subscribers. Please complete "
+"registration first."
+msgstr ""
+"De %s functie is alleen beschikbaar voor abonnees Digiprove. Gelieve eerst "
+"volledige registratie."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2414
+#, php-format
+msgid ""
+"The %s function is available only to current Digiprove subscribers. Your %s "
+"account expired on %s. %sRenew your subscription plan%s."
+msgstr ""
+"De %s functie is alleen beschikbaar voor de huidige Digiprove abonnees. Uw "
+"%s account is verstreken op %s. %sVernieuw uw abonnement%s."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2416
+#, php-format
+msgid ""
+"The %s function is not available under your current plan (%s).  %sUpgrade "
+"your subscription plan%s."
+msgstr ""
+"De %s functie is niet beschikbaar onder Uw huidige plan (%s). %sUpgrade Uw "
+"abonnement%s."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2417
+#, php-format
+msgid ""
+"The %s function is available only to Digiprove subscribers at Professional "
+"level or above. Please complete registration first."
+msgstr ""
+"De %s functie is alleen beschikbaar voor abonnees Digiprove op professioneel "
+"niveau of hoger. Gelieve eerst volledige registratie."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2418
+#, php-format
+msgid ""
+"The %s function is available to subscribers at Professional level and above "
+"- your current plan is &quot;%s&quot;.  %sUpgrade your subscription plan%s."
+msgstr ""
+"De %s functie is beschikbaar voor abonnees op professioneel niveau en hoger "
+"- Uw huidige plan is &quot;%s&quot;. %sUpgrade Uw abonnement%s."
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2472
+msgid "Content settings"
+msgstr "Inhoud instellingen"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2575
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2584
+msgid "You must specify a User Id"
+msgstr "U moet een gebruikersnaam geven"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2579
+msgid "Sorry, User Id cannot exceed 40 characters"
+msgstr "Sorry, User Id kan niet hoger dan 40 tekens zijn"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2594
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2675
+#: /cygdrive/c/language_folder/Digiprove.php:763
+#: /cygdrive/c/language_folder/Digiprove.php:1110
+msgid "Password must be at least 6 characters"
+msgstr "Wachtwoord moet minimaal 6 karakters zijn"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2600
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2607
+msgid "Password values do not match"
+msgstr "Wachtwoord waarden zijn niet gelijk"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2615
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2671
+msgid "Please input your Digiprove User ID"
+msgstr "Typ Uw gebruikers-ID Digiprove"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2619
+msgid "Obtaining an Api key requires you to enter your password"
+msgstr ""
+"Het verkrijgen van een API-sleutel vereist dat u het wachtwoord hebt "
+"opgegeven"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2637
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2642
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2648
+msgid "Invalid email address"
+msgstr "Ongeldig e-mailadres"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2658
+#, php-format
+msgid "Invalid email - %s not configured to receive email"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2662
+msgid "Invalid email address format"
+msgstr "Ongeldig e-mailadres formaat"
+
+#: /cygdrive/c/language_folder/copyright_proof_admin.php:2674
+#: /cygdrive/c/language_folder/Digiprove.php:1109
+msgid "No password or API key"
+msgstr "Geen wachtwoord of API-sleutel"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:23
+msgid "Copyright / Ownership / Licensing"
+msgstr "Copyright / Eigendom / Licensing"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:74
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:163
+msgid "Last Digiproved:"
+msgstr "Laatst Digiproved"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:74
+msgid "Never"
+msgstr "Nooit"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:163
+msgid "certificate"
+msgstr "certificaat"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:247
+#, php-format
+msgid "Digiprove this %s"
+msgstr "Digiprove dit %s"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:292
+msgid "Is content all yours?"
+msgstr "Is deze inhoud allemaal van jou?"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:296
+msgid "Acknowledgements / Attributions"
+msgstr "Erkenningen / Bevoegdheden"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:299
+#: /cygdrive/c/language_folder/copyright_proof_live.php:705
+msgid "License Type"
+msgstr "Soort Licentie"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:320
+msgid "Use Default"
+msgstr "Standaard gebruiken"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:321
+msgid "Custom&nbsp;for&nbsp;this&nbsp;post"
+msgstr "Speciaal voor dit bericht"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:351
+#: /cygdrive/c/language_folder/copyright_proof_live.php:711
+msgid "License URL"
+msgstr "Licentie URL"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:388
+msgid "page"
+msgstr "pagina"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:395
+msgid "post"
+msgstr "bericht"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:440
+#, fuzzy
+msgid "Integrity Check"
+msgstr "Integriteit niet gecontroleerd"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:440
+msgid ""
+"In Digiprove Integrity-checking panel, hold mouse over message for further "
+"information"
+msgstr ""
+"In Digiprove Integriteit controle paneel, houd muis over melding voor meer "
+"informatie"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:440
+msgid "hint"
+msgstr "hint"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:475
+#, php-format
+msgid ""
+"The HTML in this %s has not been altered since last Digiprove certification"
+msgstr ""
+"De HTML in dit %s is niet veranderd sinds de laatste Digiprove certificering"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:475
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:481
+#, fuzzy
+msgid "Integrity Check OK"
+msgstr "Integriteit niet gecontroleerd"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:481
+#, php-format
+msgid "The HTML in this %s has not been altered from outside Wordpress"
+msgstr "De HTML in dit %s is niet gewijzigd van buiten Wordpress"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:481
+msgid "(but last update was not Digiproved)"
+msgstr "(maar laatste update s niet Digiproved)"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:485
+#, php-format
+msgid "The HTML in this %s appears to have been changed from outside Wordpress"
+msgstr "De HTML in dit %s lijkt te zijn veranderd van buiten Wordpress"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:485
+#: /cygdrive/c/language_folder/copyright_proof_live.php:396
+msgid "HTML Tamper Alert"
+msgstr "HTML sabotage waarschuwing"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:492
+#, fuzzy, php-format
+msgid ""
+"The HTML in this %s has been changed without Digiprove integrity checking so "
+"could not verify"
+msgstr ""
+"De HTML in dit %s is gewijzigd zonder Digiprove integriteitscontrole - "
+"controleer of het juist is"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:492
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:558
+#, fuzzy
+msgid "Content Changed"
+msgstr "Inhoud is veranderd"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:505
+msgid "Cannot calculate digital fingerprint of your content; try upgrading PHP"
+msgstr ""
+"Kan niet berekenen digitale vingerafdruk van uw inhoud, probeer upgraden van "
+"PHP"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:505
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:585
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:591
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:603
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:609
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:613
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:620
+msgid "Integrity not checked"
+msgstr "Integriteit niet gecontroleerd"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:507
+msgid "Files"
+msgstr "Bestanden"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:515
+msgid "File Integrity Unknown"
+msgstr "Bestanden Integriteit Onbekend"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:523
+#, fuzzy, php-format
+msgid "%s file"
+msgstr "# bestanden"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:527
+#, fuzzy, php-format
+msgid "%s files"
+msgstr "# bestanden"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:548
+#, fuzzy
+msgid " Verified OK"
+msgstr "HTML gecontroleerd op OK"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:558
+#, fuzzy, php-format
+msgid ""
+"The content of this %s has been changed without Digiprove integrity checking "
+"so could not verify"
+msgstr ""
+"De HTML in dit %s is gewijzigd zonder Digiprove integriteitscontrole - "
+"controleer of het juist is"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:563
+#, fuzzy
+msgid " - Tamper Warning"
+msgstr "%s bestanden - Sabotage Warning"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:569
+#: /cygdrive/c/language_folder/copyright_proof_integrity.php:28
+msgid "Matched"
+msgstr "Afgestemd"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:591
+msgid ""
+"Either no files referenced from your content, or none that your settings "
+"indicate should be Digiproved"
+msgstr ""
+"Ofwel geen bestanden verwezen van uw inhoud, of geen die de instellingen op "
+"te geven moet worden Digiproved"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:603
+msgid "File integrity checking not available to your subscription level"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:609
+msgid "Your Digiprove subscription is expired"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:613
+msgid "Your settings indicate no file integrity checking"
+msgstr "Uw instellingen betekent geen controleren van bestand-integriteit"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:620
+msgid "Cannot calculate digital fingerprints of your files; try upgrading PHP"
+msgstr ""
+"Kan niet berekenen digitale vingerafdrukken van uw bestanden, probeer "
+"upgraden van PHP"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:627
+#, fuzzy
+msgid "Verify against Certificate"
+msgstr "Opmerking over certificaten"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:628
+msgid ""
+"Check content against tamper-proof Digiprove certification (online check)"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:685
+msgid "Schedule & Digiprove"
+msgstr "Inplannen & Digiproven"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:689
+msgid "Publish &amp; Digiprove"
+msgstr "Publiceren &amp; Digiproven"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:694
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:702
+msgid "Digiprove &amp; Submit for Review"
+msgstr "Digiprove &amp; Voorleggen voor Review"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:699
+msgid "Update &amp; Digiprove"
+msgstr "Bijwerken &amp;  Digiproven"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:725
+msgid "Digiproved today"
+msgstr "Digiproved Vandaag"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:741
+msgid " & Digiprove"
+msgstr " & Digiproven"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1143
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1144
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1219
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1702
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1779
+msgid "Content is empty"
+msgstr "Inhoud is leeg"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1182
+#, php-format
+msgid "Digiprove daily limit (%1$s) for %2$s accounts already reached. "
+msgstr "Digiprove dagelijkse limiet (%1$s) voor %2$s accounts al bereikt."
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1183
+#, php-format
+msgid "You can %s upgrade to increase this limit.%s"
+msgstr "U kunt %s upgraden naar deze limiet te verhogen.%s"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1193
+#, php-format
+msgid ""
+"Digiprove free daily limit (5) already reached, and your Digiprove account "
+"expired on %s. "
+msgstr ""
+"Digiprove gratis dagelijkse limiet (5) al bereikt, en je Digiprove-account "
+"is verstreken op %s."
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1194
+#, php-format
+msgid "You can %s renew your account here.%s"
+msgstr "U kunt %s verlengen van uw account hier. %s"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1218
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1791
+msgid "Content unchanged since last edit"
+msgstr "Inhoud ongewijzigd sinds de laatste edit"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1818
+#, php-format
+msgid ""
+"- Evidence of content has been created (all html and 0/%s selected media "
+"files)"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1819
+#, php-format
+msgid "Media files not Digiproved as your subscription expired on %s"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1824
+#, php-format
+msgid ""
+"- Evidence of content has been created (all html and %1$s/%2$s selected "
+"media files)"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1825
+#, php-format
+msgid ""
+"The %1$s plan covers a maximum of %2$s media files in a single post/page"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1831
+#, php-format
+msgid ""
+"- Evidence of content has been created (all html and %s/%s selected media "
+"files)"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1838
+#, fuzzy
+msgid "- Evidence of this content has been created."
+msgstr "Deze inhoud is Digiproved"
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1839
+msgid "No media files were referenced in this post/page"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1846
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1852
+msgid "- Evidence of this text and HTML content has been created."
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1847
+msgid "HTML only, media files are not supported by your subscription"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_edit.php:1853
+msgid ""
+"No media files were selected for Digiproving (based on your &quot;Certifying "
+"Content&quot; settings)"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_integrity.php:38
+msgid "File contents changed"
+msgstr "Inhoud is veranderd"
+
+#: /cygdrive/c/language_folder/copyright_proof_integrity.php:46
+#, fuzzy
+msgid "No longer there"
+msgstr "Er bestand niet meer"
+
+#: /cygdrive/c/language_folder/copyright_proof_integrity.php:56
+#, fuzzy
+msgid "Was not there before"
+msgstr "File was er niet eerder"
+
+#: /cygdrive/c/language_folder/copyright_proof_integrity.php:113
+msgid "Searched on fingerprint"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_integrity.php:116
+msgid ""
+"Digiprove certifies that the content of this revision was verifiably "
+"Digiproved"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_integrity.php:120
+#, php-format
+msgid " %s times.  Details of the earliest shown below"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_integrity.php:124
+msgid "Certified&nbsp;at&nbsp;"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_integrity.php:125
+msgid "Certificate&nbsp;Id&nbsp;"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_integrity.php:126
+msgid "Certificate&nbsp;URL&nbsp;"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_integrity.php:140
+#, fuzzy
+msgid "Response from Digiprove: "
+msgstr "Geregistreerde Digiprove gebruiker?:"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:23
+msgid "Digiprove's Copyright Proof plugin detected the following event:"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:24
+#, fuzzy
+msgid ", page="
+msgstr "pagina"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:25
+#, fuzzy
+msgid "IP address: "
+msgstr "Email adres"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:26
+msgid ""
+"You are receiving this email because of your Wordpress Copyright Proof "
+"settings for the site "
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:27
+msgid ""
+"You can visit your Digiprove account by logging in at https://www.digiprove."
+"com/secure/login.aspx (your user id is "
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:28
+msgid "Warning - possible attempt to copy content from "
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:120
+#: /cygdrive/c/language_folder/copyright_proof_live.php:671
+msgid "Attributions - owner(s) of some content"
+msgstr "Mensen die contribeerd hebben"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:318
+#, php-format
+msgid ""
+"All original content on these pages is fingerprinted and certified by %s"
+msgstr ""
+"Alle originele inhoud op deze pagina&#39;s wordt gedigitale vingerafgedrukt "
+"en gecertificeerd door %s"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:381
+msgid "HTML Certified &amp; Verified"
+msgstr "HTML Gecertificeerd &amp; Gecontroleerd"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:382
+#, php-format
+msgid "The HTML in this %s matches last Digiprove certification"
+msgstr "De HTML in dit %s overeenkomt laatste Digiprove certificering"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:389
+msgid "HTML Verified"
+msgstr "HTML gecontroleerd"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:390
+#, php-format
+msgid "The HTML in this %s matches last recorded update"
+msgstr "De HTML in dit %s overeenkomt met laatste update"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:397
+#, php-format
+msgid ""
+"The HTML in this %1$s (id %2$s) appears to have been changed from outside "
+"Wordpress. "
+msgstr ""
+"De HTML in dit %1$s  (id %2$s) lijkt te zijn veranderd van buiten Wordpress."
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:405
+msgid "Check HTML"
+msgstr "Controleer HTML"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:406
+#, php-format
+msgid ""
+"The HTML in this %1$s (id %2$s) has been changed without Digiprove integrity "
+"checking - check whether it is correct. "
+msgstr ""
+"De HTML in dit %1$s (id %2$s) is veranderd zonder dat Digiprove "
+"integriteitscontrole - controleer of het juist is."
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:436
+#, php-format
+msgid "%s files Verified"
+msgstr "%s bestanden gecontroleerd"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:442
+#, php-format
+msgid "%s files - Tamper Warning"
+msgstr "%s bestanden - Sabotage Warning"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:478
+#, fuzzy
+msgid "All content certified &amp; verified"
+msgstr "HTML Gecertificeerd &amp; Gecontroleerd"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:482
+msgid "All content verified"
+msgstr ""
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:514
+msgid "and certified by Digiprove"
+msgstr "en gecertificeerd door Digiprove"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:602
+msgid "en"
+msgstr "nl"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:603
+#, php-format
+msgid "certified %1$s by Digiprove certificate %2$s"
+msgstr "gecertifeered %1$s door Digiprove op certificatie %2$s"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:664
+msgid "Content integrity"
+msgstr "Integriteit van de Inhoud"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:672
+#: /cygdrive/c/language_folder/copyright_proof_live.php:676
+#: /cygdrive/c/language_folder/copyright_proof_live.php:677
+msgid "Acknowledgements"
+msgstr "Erkenningen"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:676
+msgid "Attributions - owner(s) of some content - click to see full text"
+msgstr "Eigenaren van een aantal inhoud - klik voor hele text"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:677
+msgid " more..."
+msgstr "meer..."
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:683
+msgid "Click to see details of license"
+msgstr "Klik om de details van de licentie te zien"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:703
+msgid "Original content here is published under these license terms"
+msgstr "Originele inhoud hier is gepubliceerd onder deze licentievoorwaarden"
+
+#: /cygdrive/c/language_folder/copyright_proof_live.php:707
+msgid "License Summary"
+msgstr "Licentie Samenvatting"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:368
+#, php-format
+msgid "Failed to create db table %s"
+msgstr "Tafel %s is niet gemaakt"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:371
+msgid "Details:"
+msgstr "Informatie:"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:598
+msgid "Read Only"
+msgstr "Read Only"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:599
+msgid "Commercial"
+msgstr "Commercial"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:600
+msgid "Attribution"
+msgstr "Attribution"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:601
+msgid "Attribution, No derivative work"
+msgstr "Attribution, No derivative work"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:602
+msgid "Non-commercial, Attribution, no Derivative work"
+msgstr "Non-commercial, Attribution, no Derivative work"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:603
+msgid "Non-commercial, Attribution"
+msgstr "Non-commercial, Attribution"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:604
+msgid "Non-commercial, Attribution, Share Alike"
+msgstr "Non-commercial, Attribution, Share Alike"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:605
+msgid "Attribution, Share Alike"
+msgstr "Attribution, Share Alike"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:606
+msgid "General Public License"
+msgstr "General Public License"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:620
+msgid ""
+"You may read the original content in the context in which it is published "
+"(at this web address). No other copying or use is permitted without written "
+"agreement from the author."
+msgstr ""
+"You may read the original content in the context in which it is published "
+"(at this web address). No other copying or use is permitted without written "
+"agreement from the author."
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:621
+msgid ""
+"You may read the original content in the context in which it is published "
+"(at this web address). You may make other uses of the content only with the "
+"written permission of the author on payment of a fee."
+msgstr ""
+"You may read the original content in the context in which it is published "
+"(at this web address). You may make other uses of the content only with the "
+"written permission of the author on payment of a fee."
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:622
+msgid ""
+"You may copy this content, create derivative work from it, and re-publish "
+"it, provided you include an overt attribution to the author(s)."
+msgstr ""
+"You may copy this content, create derivative work from it, and re-publish "
+"it, provided you include an overt attribution to the author(s)."
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:623
+msgid ""
+"You may copy this content and re-publish it in unmodified form, provided you "
+"include an overt attribution to the author(s). You are not permitted to "
+"create derivative works."
+msgstr ""
+"You may copy this content and re-publish it in unmodified form, provided you "
+"include an overt attribution to the author(s). You are not permitted to "
+"create derivative works."
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:624
+msgid ""
+"You may copy this content, and re-publish it in unmodified form for non-"
+"commercial purposes, provided you include an overt attribution to the author"
+"(s). You are not permitted to create derivative works."
+msgstr ""
+"You may copy this content, and re-publish it in unmodified form for non-"
+"commercial purposes, provided you include an overt attribution to the author"
+"(s). You are not permitted to create derivative works."
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:625
+msgid ""
+"You may copy this content, create derivative work from it, and re-publish it "
+"for non-commercial purposes, provided you include an overt attribution to "
+"the author(s)."
+msgstr ""
+"You may copy this content, create derivative work from it, and re-publish it "
+"for non-commercial purposes, provided you include an overt attribution to "
+"the author(s)."
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:626
+msgid ""
+"You may copy this content, create derivative work from it, and re-publish it "
+"for non-commercial purposes, provided you include an overt attribution to "
+"the author(s) and the re-publication must itself be under the terms of this "
+"license or similar."
+msgstr ""
+"You may copy this content, create derivative work from it, and re-publish it "
+"for non-commercial purposes, provided you include an overt attribution to "
+"the author(s) and the re-publication must itself be under the terms of this "
+"license or similar."
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:627
+msgid ""
+"You may copy this content, create derivative work from it, and re-publish "
+"it, provided you include an overt attribution to the author(s) and the re-"
+"publication must itself be under the terms of this license or similar."
+msgstr ""
+"You may copy this content, create derivative work from it, and re-publish "
+"it, provided you include an overt attribution to the author(s) and the re-"
+"publication must itself be under the terms of this license or similar."
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:628
+msgid ""
+"The GNU General Public License is a free, copyleft license for software and "
+"other kinds of works. You may re-publish the content (modified or "
+"unmodified) providing the re-publication is itself under the terms of the "
+"GPL."
+msgstr ""
+"The GNU General Public License is a free, copyleft license for software and "
+"other kinds of works. You may re-publish the content (modified or "
+"unmodified) providing the re-publication is itself under the terms of the "
+"GPL."
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:745
+msgid "Copyright Proof is almost ready."
+msgstr "Copyright Proof is bijna klaar."
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:745
+#, php-format
+msgid ""
+"You must %1$s Configure Copyright Proof and Register %2$s to get it working"
+msgstr "U moet de plugin %1$s configureren en registreren %2$s"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:751
+msgid "Copyright Proof needs configuration."
+msgstr "Copyright Proof moet geconfigeerd worden"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:751
+#, php-format
+msgid "Please %s obtain a new api key %s to get it working"
+msgstr "U moet %s een nieuwe api sleutel krijgen %s"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:929
+msgid "Settings"
+msgstr "Instellingen"
+
+#: /cygdrive/c/language_folder/CopyrightProof.php:1100
+#, fuzzy
+msgid "Copyright of content secured by Digiprove?"
+msgstr "Copyright beveiligd door Digiprove"
+
+#: /cygdrive/c/language_folder/Digiprove.php:753
+msgid "Please specify a desired Digiprove user id"
+msgstr "Geef een gewenste Digiprove gebruikers-id"
+
+#: /cygdrive/c/language_folder/Digiprove.php:758
+msgid "You need to input a password"
+msgstr "U moet invoeren van een wachtwoord"
+
+#: /cygdrive/c/language_folder/Digiprove.php:768
+msgid ""
+"Please input your email address (to which the activation link will be sent)"
+msgstr "Voer Uw e-mailadres (waarop de activatie link wordt verzonden)"
+
+#: /cygdrive/c/language_folder/Digiprove.php:773
+msgid "You need to complete either first or last name"
+msgstr "U moet een voornaam of achternaam leveren"
+
+#: /cygdrive/c/language_folder/Digiprove.php:779
+#, fuzzy
+msgid "Please supply domain name"
+msgstr "Ja, laat mijn volledige naam zien"
+
+#: /cygdrive/c/language_folder/Digiprove.php:1106
+#, fuzzy
+msgid "Please supply a Digiprove user id"
+msgstr "Geef een gewenste Digiprove gebruikers-id"
+
+#~ msgid "please try later"
+#~ msgstr "probeer het later opnieuw"
+
+#~ msgid "Display but leave out my name"
+#~ msgstr "Tonen maar zonder mijn naam"
+
+#~ msgid "HTML Integrity:"
+#~ msgstr "HTML Integriteit:"
+
+#~ msgid "Check Integrity of HTML"
+#~ msgstr "Controleer HTML Integriteit"
+
+#~ msgid "Don&#39;t Check HTML Integrity"
+#~ msgstr "Niet controleren HTML Integriteit"
+
+#~ msgid "Check Embedded File Integrity:"
+#~ msgstr "Controleer integriteit geintregeerde bestanden:"
+
+#~ msgid "Check Integrity of files used in your content"
+#~ msgstr ""
+#~ "Controleer integriteit van bestanden die worden gebruikt in Uw inhoud"
+
+#~ msgid "Don&#39;t Check Integrity of files used in your content"
+#~ msgstr ""
+#~ "Niet controleren integriteit van bestanden die worden gebruikt in Uw "
+#~ "inhoud"
+
+#~ msgid "Record IP Address of right-clickers:&nbsp;&nbsp;"
+#~ msgstr "Record IP-adres van rechts-clickers:"
+
+#~ msgid ""
+#~ "Cannot find the URL of your blog - please check Wordpress Settings "
+#~ "(General)"
+#~ msgstr ""
+#~ "Vindt U niet de URL van Uw blog - controleer Wordpress-instellingen "
+#~ "(Algemeen)"
+
+#~ msgid "Digiprove Integrity Check"
+#~ msgstr "Digiprove Integriteitscontrole"
+
+#~ msgid "HTML Change Warning"
+#~ msgstr "HTMLveranderd waarschuwing"
+
+#~ msgid "Your settings indicate no HTML integrity checking"
+#~ msgstr "Uw instellingen betekent geen HTML-integriteit controle"
+
+#~ msgid "%s files Verified OK"
+#~ msgstr "%s bestanden gecontroleerd op OK"
+
+#~ msgid ""
+#~ "This content has been updated since last Digiprove certification, so "
+#~ "cannot check file integrity"
+#~ msgstr ""
+#~ "Deze inhoud is bijgewerkt sinds de laatste Digiprove certificering, dus "
+#~ "kan niet controleren integriteit van bestanden"
+
+#~ msgid "Check Certification Online"
+#~ msgstr "Controleer certificering online"
+
+#~ msgid ""
+#~ "(This post/page contained references to %1$s media files that according "
+#~ "to your settings should be Digiproved, but your subscription expired on "
+#~ "%2$s.)"
+#~ msgstr ""
+#~ "(Deze inhoud bevatte verwijzingen naar %1$s media bestanden die op basis "
+#~ "van uw instellingen moeten worden Digiproved, maar uw abonnement is "
+#~ "afgelopen op %2$s.)"
+
+#~ msgid ""
+#~ "(This content contained references to %1$s media files that according to "
+#~ "your settings should be Digiproved, but the %2$s plan limits this to "
+#~ "%3$s  - the first %3$s were processed.)"
+#~ msgstr ""
+#~ "(Deze inhoud bevatte verwijzingen naar %1$s media bestanden die op basis "
+#~ "van Uw instellingen moeten worden Digiproved, maar het %2$s plan beperkt "
+#~ "deze tot en met %3$s -. de eerste %3$s zijn verwerkt)"
+
+#~ msgid "HTML &amp; %s Files Certified &amp; Verified"
+#~ msgstr "HTML &amp; %s Bestanden Gecertificeerd &amp; Gecontroleerd"
+
+#~ msgid "Content"
+#~ msgstr "Content"
+
+#~ msgid "Refresh"
+#~ msgstr "Vernieuwen"
+
+#~ msgid "Check with Server"
+#~ msgstr "Contact op met de server"
+
+#~ msgid "Encountered a problem while trying to verify content:"
+#~ msgstr ""
+#~ "Een fout opgetreden terwijl het proberen om de inhoud te controleren:"
+
+#~ msgid "Digiprove & Schedule"
+#~ msgstr "Digiproven & Inplannen"
+
+#~ msgid "Save a copy of content of each post and page at Digiprove"
+#~ msgstr "Inhoud wel opslaan op www.digiprove.com"
+
+#~ msgid "License Caption: "
+#~ msgstr "Licentie bijschrift:"
+
+#~ msgid "License Abstract: "
+#~ msgstr "Licentie Samenvatting:"
