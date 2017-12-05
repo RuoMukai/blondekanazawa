@@ -84,6 +84,8 @@ $_SERVER["HTTP_HOST"] = $_SERVER["SERVER_NAME"];
 
 /* That's all, stop editing! Happy blogging. */
 
+define('WP_ALLOW_REPAIR', true);
+
 /** Absolute path to the WordPress directory. */
 if ( !defined('ABSPATH') )
 	define('ABSPATH', dirname(__FILE__) . '/');
