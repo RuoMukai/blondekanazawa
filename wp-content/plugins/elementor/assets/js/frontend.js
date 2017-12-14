@@ -1,4 +1,4 @@
-/*! elementor - v1.8.4 - 14-11-2017 */
+/*! elementor - v1.8.8 - 30-11-2017 */
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 var ElementsHandler;
 
@@ -325,6 +325,14 @@ HandlerModule = ViewModule.extend( {
 		}
 	},
 
+	findElement: function( selector ) {
+		var $mainElement = this.$element;
+
+		return $mainElement.find( selector ).filter( function() {
+			return jQuery( this ).closest( '.elementor-element' ).is( $mainElement );
+		} );
+	},
+
 	getUniqueHandlerID: function( cid, $element ) {
 		if ( ! cid ) {
 			cid = this.getModelCID();
@@ -471,8 +479,8 @@ module.exports = HandlerModule.extend( {
 		var selectors = this.getSettings( 'selectors' );
 
 		return {
-			$tabTitles: this.$element.find( selectors.tabTitle ),
-			$tabContents: this.$element.find( selectors.tabContent )
+			$tabTitles: this.findElement( selectors.tabTitle ),
+			$tabContents: this.findElement( selectors.tabContent )
 		};
 	},
 
@@ -805,7 +813,8 @@ var BackgroundVideo = HandlerModule.extend( {
 			},
 			playerVars: {
 				controls: 0,
-				showinfo: 0
+				showinfo: 0,
+				rel: 0
 			}
 		} );
 

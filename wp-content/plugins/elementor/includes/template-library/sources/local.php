@@ -28,6 +28,8 @@ class Source_Local extends Source_Base {
 
 	private static $_template_types = [ 'page', 'section' ];
 
+	private $post_type_object;
+
 	/**
 	 * @static
 	 * @since 1.0.0
@@ -123,7 +125,7 @@ class Source_Local extends Source_Base {
 			'supports' => [ 'title', 'thumbnail', 'author', 'elementor' ],
 		];
 
-		register_post_type(
+		$this->post_type_object = register_post_type(
 			self::CPT,
 			apply_filters( 'elementor/template_library/sources/local/register_post_type_args', $args )
 		);
@@ -217,9 +219,13 @@ class Source_Local extends Source_Base {
 			return new \WP_Error( 'save_error', 'Invalid template type `' . $template_data['type'] . '`' );
 		}
 
+		if ( ! current_user_can( $this->post_type_object->cap->edit_posts ) ) {
+			return new \WP_Error( 'save_error', __( 'Sorry, you are not allowed to save templates.', 'elementor' ) );
+		}
+
 		$template_id = wp_insert_post( [
 			'post_title' => ! empty( $template_data['title'] ) ? $template_data['title'] : __( '(no title)', 'elementor' ),
-			'post_status' => 'publish',
+			'post_status' => current_user_can( 'publish_posts' ) ? 'publish' : 'pending',
 			'post_type' => self::CPT,
 		] );
 
@@ -248,6 +254,10 @@ class Source_Local extends Source_Base {
 	 * @access public
 	*/
 	public function update_item( $new_data ) {
+		if ( ! current_user_can( $this->post_type_object->cap->edit_post, $new_data['id'] ) ) {
+			return new \WP_Error( 'save_error', __( 'Sorry, you are not allowed to save templates.', 'elementor' ) );
+		}
+
 		Plugin::$instance->db->save_editor( $new_data['id'], $new_data['content'] );
 
 		do_action( 'elementor/template-library/after_update_template', $new_data['id'], $new_data );
@@ -325,7 +335,11 @@ class Source_Local extends Source_Base {
 	 * @access public
 	*/
 	public function delete_template( $template_id ) {
-		wp_delete_post( $template_id, true );
+		if ( ! current_user_can( $this->post_type_object->cap->delete_post, $template_id ) ) {
+			return new \WP_Error( 'template_error', __( 'Sorry, you are not allowed to delete templates.', 'elementor' ) );
+		}
+
+		return wp_delete_post( $template_id, true );
 	}
 
 	/**
@@ -500,7 +514,7 @@ class Source_Local extends Source_Base {
 				<div id="elementor-import-template-title"><?php _e( 'Choose an Elementor template JSON file or a .zip archive of Elementor templates, and add them to the list of templates available in your library.', 'elementor' ); ?></div>
 				<form id="elementor-import-template-form" method="post" action="<?php echo admin_url( 'admin-ajax.php' ); ?>" enctype="multipart/form-data">
 					<input type="hidden" name="action" value="elementor_import_template">
-					<input type="hidden" name="_nonce" value="<?php echo Plugin::$instance->editor->create_nonce(); ?>">
+					<input type="hidden" name="_nonce" value="<?php echo Plugin::$instance->editor->create_nonce( self::CPT ); ?>">
 					<fieldset id="elementor-import-template-form-inputs">
 						<input type="file" name="file" accept=".json,.zip,application/octet-stream,application/zip,application/x-zip,application/x-zip-compressed" required>
 						<input type="submit" class="button" value="<?php _e( 'Import Now', 'elementor' ); ?>">
@@ -531,6 +545,7 @@ class Source_Local extends Source_Base {
 	}
 
 	/**
+	 * @since 1.8.0
 	 * @access public
 	 */
 	public function remove_elementor_post_state_from_library( $post_states, $post ) {
@@ -549,7 +564,7 @@ class Source_Local extends Source_Base {
 			[
 				'action' => 'elementor_export_template',
 				'source' => $this->get_id(),
-				'_nonce' => Plugin::$instance->editor->create_nonce(),
+				'_nonce' => Plugin::$instance->editor->create_nonce( self::CPT ),
 				'template_id' => $template_id,
 			],
 			admin_url( 'admin-ajax.php' )

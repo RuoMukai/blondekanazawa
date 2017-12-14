@@ -1,4 +1,4 @@
-/*! elementor - v1.8.4 - 14-11-2017 */
+/*! elementor - v1.8.8 - 30-11-2017 */
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 var HandleAddDuplicateBehavior;
 
@@ -7081,10 +7081,12 @@ BaseElementView = BaseContainer.extend( {
 		self.runReadyTrigger();
 
 		if ( self.toggleEditTools ) {
+			var triggerButton = self.ui.triggerButton;
+
 			self.ui.settingsList.hoverIntent( function() {
-				self.ui.triggerButton.addClass( 'elementor-active' );
+				triggerButton.addClass( 'elementor-active' );
 			}, function() {
-				self.ui.triggerButton.removeClass( 'elementor-active' );
+				triggerButton.removeClass( 'elementor-active' );
 			}, { timeout: 500 } );
 		}
 	},
@@ -7311,8 +7313,13 @@ ColumnView = BaseElementView.extend( {
 	},
 
 	isDroppingAllowed: function() {
-		var elementView = elementor.channels.panelElements.request( 'element:selected' ),
-			elType = elementView.model.get( 'elType' );
+		var elementView = elementor.channels.panelElements.request( 'element:selected' );
+
+		if ( ! elementView ) {
+			return false;
+		}
+
+		var elType = elementView.model.get( 'elType' );
 
 		if ( 'section' === elType ) {
 			return ! this.isInner();
@@ -9523,11 +9530,18 @@ ControlWPWidgetItemView = ControlBaseItemView.extend( {
 			},
 			success: _.bind( function( data ) {
 				this.ui.form.html( data );
+
 				// WP >= 4.8
 				if ( wp.textWidgets ) {
+					this.ui.form.addClass( 'open' );
 					var event = new jQuery.Event( 'widget-added' );
 					wp.textWidgets.handleWidgetAdded( event, this.ui.form );
 					wp.mediaWidgets.handleWidgetAdded( event, this.ui.form );
+
+					// WP >= 4.9
+					if ( wp.customHtmlWidgets ) {
+						wp.customHtmlWidgets.handleWidgetAdded( event, this.ui.form );
+					}
 				}
 
 				elementor.hooks.doAction( 'panel/widgets/' + this.model.get( 'widget' ) + '/controls/wp_widget/loaded', this );

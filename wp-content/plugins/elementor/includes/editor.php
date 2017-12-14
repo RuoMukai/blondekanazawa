@@ -16,7 +16,7 @@ class Editor {
 
 	const EDITING_NONCE_KEY = 'elementor-editing';
 
-	const EDITING_CAPABILITY = 'edit_pages';
+	const EDITING_CAPABILITY = 'edit_posts';
 
 	/**
 	 * Post ID.
@@ -466,7 +466,7 @@ class Editor {
 			'version' => ELEMENTOR_VERSION,
 			'ajaxurl' => admin_url( 'admin-ajax.php' ),
 			'home_url' => home_url(),
-			'nonce' => $this->create_nonce(),
+			'nonce' => $this->create_nonce( get_post_type() ),
 			'preview_link' => Utils::get_preview_url( $this->_post_id ),
 			'elements_categories' => $plugin->elements_manager->get_categories(),
 			'controls' => $plugin->controls_manager->get_controls_data(),
@@ -733,10 +733,15 @@ class Editor {
 	 * @since 1.8.1
 	 * @access public
 	 *
-	 * @return null|string
+	 * @param string $post_type The post type to check capabilities. @since  1.8.7
+	 *
+	 * @return null|string The nonce token, or `null` if the user has no edit capabilities.
 	 */
-	public function create_nonce() {
-		if ( ! current_user_can( self::EDITING_CAPABILITY ) ) {
+	public function create_nonce( $post_type ) {
+		$post_type_object = get_post_type_object( $post_type );
+		$capability = $post_type_object->cap->{self::EDITING_CAPABILITY};
+
+		if ( ! current_user_can( $capability ) ) {
 			return null;
 		}
 
@@ -756,13 +761,28 @@ class Editor {
 	}
 
 	/**
+	 * Verify request nonce.
+	 *
+	 * Whether the request nonce verified or not.
+	 *
 	 * @since 1.8.1
 	 * @access public
 	 *
-	 * @return bool
+	 * @return bool True if request nonce verified, False otherwise.
 	 */
 	public function verify_request_nonce() {
 		return ! empty( $_REQUEST['_nonce'] ) && $this->verify_nonce( $_REQUEST['_nonce'] );
+	}
+
+	/**
+	 * Verify request nonce and send a JSON error if not.
+	 *
+	 * @access public
+	 */
+	public function verify_ajax_nonce() {
+		if ( ! $this->verify_request_nonce() ) {
+			wp_send_json_error( new \WP_Error( 'token_expired' ) );
+		}
 	}
 
 	/**
